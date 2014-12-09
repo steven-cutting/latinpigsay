@@ -26,9 +26,5 @@ and Peace' in under 2.5 minutes --on a six year old laptop.
 This project is still very rough and under early development.
 But, the translator does work and so does the 'piggyprint' module.
 
-**On the TODO list:**
-	+  Add ability to properly translate compound words.
-	+ Ability to properly handle rapped words.
-	+ Roman numerals.
-	+ etc.
+
 

@@ -33,7 +33,8 @@ def warandpeace():
     text = gfunc.onlinetext('http://www.gutenberg.org/files/2600/2600.txt',
                             'WarAndPeace').text
 
-    pp.piggyprint(lp.translator(text).returnstr).printall
+    #pp.piggyprint(lp.translator(text).returnstr).printall
+    print lp.translator(text).returnstr
     t2 = arrow.now()
     print '\n\n'
     pp.piggyprint(str(t2 - t1)).printall
