@@ -6,7 +6,7 @@ from latinpigsay import latinpig as lp
 from latinpigsay import piggyprint as pp
 
 
-# ts.compare2()
+#ts.compare2()
 
 
 # ts.warandpeace()

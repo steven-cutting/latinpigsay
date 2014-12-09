@@ -1,5 +1,6 @@
 from data.text import samples as sam
 from latinpigsay import generalfunctions as gfunc
+from tmp.experiments import expfunctions as expfunc
 
 from latinpigsay import latinpig as lp
 from latinpigsay import piggyprint as pp
@@ -52,7 +53,7 @@ def compare2(files=files[1]):
     comparer(**files)
 
 def comparer(file1, file2):
-    gen = exp.filereader_gen
+    gen = expfunc.filereader_gen
 
     for e, p in izip(gen(file1), gen(file2)):
         print e
