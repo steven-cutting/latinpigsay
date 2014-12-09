@@ -10,6 +10,7 @@ import string
 from string import ascii_letters
 
 
+
 class regexpreplacer(object):
     def __init__(self, patterns):
         self.patterns = [(re.compile(regex), repl) for (regex, repl) in
@@ -86,31 +87,6 @@ class translator(object):
 
                 self.__output.append(new_word)
 
-
-
-
-# ------------------------------------------------------------------------------
-# Depreciated
-
-
-def makestringiter(string):
-    re.finditer(r'(?:\S+)|(?:\s+)', string)
-
-
-
-class translation(object):
-
-    def __init__(self, string):
-        self.listofstrings = string.splitlines()
-
-
-cont = 'c'
-vowel = 'v'
-y = 'y'
-
-
-
-
 """
 ## The Rules Of PigLatin
 **Words beginning with consonants**
@@ -153,58 +129,3 @@ Another example is the word "toothbrush", which becomes ooth-tay ush-bray rather
 
 
 
-
-"""
-class piglatin(object):
-
-    def __init__(self, string):
-        self.string = string
-
-    # -------------------------------------------------------------------------
-    # Meta-data Creation
-
-    def _isnumber(word):
-        try:
-            int(word)
-            return True
-        except ValueError:
-            return False
-
-    def _classify(word):
-
-        word = word.lower()
-
-        if "y" in word:
-            print "{}: has a y".format(word)
-        elif word[0] in vowels:
-            print "{}: starts with a vowel".format(word)
-        elif (_isnumber(word)):
-            print '{}: is a number. ------- !!'.format(word)
-        else:
-            print "{}: starts with cont/cont-c".format(word)
-
-    def _multiplewords(string):
-        return re.split(r'[;,\s]\s*', string)
-
-
-    def _sentences(string):
-        pass
-
-
-
-
-
-
-def test(stuff):
-    for item in stuff:
-        _classify(item)
-
-test(listofwords)
-
-print type(int(listofwords[12]))
-
-
-print '\n-----\n'
-
-print paragraphs.count('\n\n')
-"""
