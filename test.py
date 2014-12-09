@@ -9,13 +9,13 @@ from latinpigsay import piggyprint as pp
 # ts.compare2()
 
 
-ts.warandpeace()
+# ts.warandpeace()
 
-"""
+
 print '-'*30
 print '\n'
 
-print exp.translate(sam.paragraphs)
+print exp.translator(sam.paragraphs)
 
 '''print '\n\n'
 print '-'*30
@@ -25,7 +25,7 @@ print '\n\n'
 '''
 print '-'*30
 print '\n'
-print exp.translate('Derp derp.')
+print exp.translator('Derp derp.')
 print '\n\n'
 #print pl.translate('Derp derp.')
 #print lp.translate('Derp derp.')
@@ -36,4 +36,4 @@ ts.test2()
 #ts.test3()
 #ts.test4()
 #ts.multiprint(2)
-"""
+

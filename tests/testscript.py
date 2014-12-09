@@ -5,6 +5,8 @@ from latinpigsay import latinpig as lp
 from latinpigsay import piggyprint as pp
 from tmp.experiments import exp
 
+import piglatin as pl
+
 import requests as re
 from itertools import izip
 
@@ -19,13 +21,13 @@ print pigbook[170:200]
 '''
 
 
-files = ({'file1' : 'data/text/phrases_english.txt',
-          'file2' : 'data/text/phrases_piglatin.txt',
-         },
-         {'file1' : 'data/text/contractions.txt',
-          'file2' : 'data/text/contractions-un.txt'
-         },
-        )
+files = {1 : {'file1' : 'data/text/phrases_english.txt',
+              'file2' : 'data/text/phrases_piglatin.txt',
+             },
+         2 : {'file1' : 'data/text/contractions.txt',
+              'file2' : 'data/text/contractions-un.txt'
+             },
+        }
 
 def warandpeace():
     t1 = arrow.now()
@@ -61,21 +63,31 @@ def comparer(file1, file2):
         #print exp.regexpreplacer(e)
         print '--'
 
-def test():
-    translated = exp.translator(sam.acidtest).returnstr
+def test(exp=0):
+    if exp is 0:
+        translated = lp.translator(sam.acidtest).returnstr
+    elif exp is 1:
+        translated = exp.translator(sam.acidtest).returnstr
+    elif exp is 2:
+        translated = translate(sam.acidtest)
     print '\n--\n'
     pp.piggyprint(translated).printall
     print '\n--\n'
 
-def test1():
-    translated = exp.translator(sam.paragraphs).returnstr
+def test1(exp=0):
+    if exp is 0:
+        translated = lp.translator(sam.paragraphs).returnstr
+    elif exp is 1:
+        translated = exp.translator(sam.paragraphs).returnstr
+    elif exp is 2:
+        translated = translate(sam.paragraphs)
     print '\n--\n'
     pp.piggyprint(translated).printall
     print '\n--\n'
 
 def test2():
-    trans1 = exp.translate(sam.quotes).returnstr
-    trans2 = exp.translate(sam.simplepgs).returnstr
+    trans1 = exp.translator(sam.quotes).returnstr
+    trans2 = exp.translator(sam.simplepgs).returnstr
     print '\n--\n'
     pp.piggyprint(trans1).printall
     print '\n'
@@ -83,8 +95,8 @@ def test2():
     print '\n--\n'
 
 def test3():
-    trans1 = pl.translate(sam.paragraphs)
-    trans2= pl.translate(sam.paragraphs_og)
+    trans1 = lp.translator(sam.paragraphs).returnstr
+    trans2= lp.translator(sam.paragraphs_og).returnstr
     print '\n--\n'
     pp.piggyprint(trans1).printall
     print '\n'
@@ -92,13 +104,13 @@ def test3():
     print '\n--\n'
 
 def test4():
-    translated = pl.translate(sam.txt)
+    translated = lp.translator(sam.txt).returnstr
     print '\n--\n'
     pp.piggyprint(translated).printall
     print '\n--\n'
 
 def multiprint(n=5):
-    translated = pl.translate(sam.simplepgs)
+    translated = lp.translator(sam.simplepgs).returnstr
     test1 = pp.piggyprint(translated)
     print '\n--\n'
     for i in xrange(n):

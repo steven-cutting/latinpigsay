@@ -1,11 +1,12 @@
-"""
-__author__ = 'steven_c'
+__title__ = 'latinpigsay'
+__license__ = 'MIT'
+__author__ = 'Steven Cutting'
 __author_email__ = 'steven.c.projects@gmail.com'
 __created_on__ = '12/7/2014'
-"""
 
-import requests as re
+import requests
 import piglatinp as pl
+import re
 
 
 # Used in:
@@ -35,7 +36,7 @@ class onlinetext(object):
     def __init__(self, url, name=''):
         self.__url = url
         self.name = self.__pickname(url, name)
-        self.__text = re.get(self.__url).text
+        self.__text = requests.get(self.__url).text
         self.translated = ''
 
     def __str__(self):
@@ -85,3 +86,16 @@ class onlinetext(object):
 
         generatedname = namegenloop(filename, count)
         return generatedname + extension
+
+# From the book:
+# Title: Python Text Processing with NLTK 2.0 Cookbook (2010)
+# Author: Jacob Perkins
+class regexpreplacer(object):
+    def __init__(self, patterns):
+        self.patterns = [(re.compile(regex), repl) for (regex, repl) in
+                         patterns]
+    def replace(self, text):
+        s = text
+        for (pattern, repl) in self.patterns:
+            (s, count) = re.subn(pattern, repl, s)
+        return s

@@ -1,9 +1,12 @@
+__title__ = 'latinpigsay'
+__license__ = 'MIT'
 __author__ = 'Steven Cutting'
 __author_email__ = 'steven.c.projects@gmail.com'
 __created_on__ = '12/7/2014'
 
 from data.text import samples as sam
 from data import charpool as charp
+import generalfunctions as gfunc
 
 import re
 import string
@@ -42,7 +45,7 @@ class translator(object):
         return self.__translated
 
     __vowels = 'aeiouAEIOU'
-    __rmcon = regexpreplacer(charp.contractions)
+    __rmcon = gfunc.regexpreplacer(charp.contractions)
 
     def __parsewords(self, words, vowels=__vowels, rmcon=__rmcon):
         for word in words:

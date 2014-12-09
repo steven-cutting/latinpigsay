@@ -1,26 +1,16 @@
+__title__ = 'latinpigsay'
+__license__ = 'MIT'
 __author__ = 'Steven Cutting'
 __author_email__ = 'steven.c.projects@gmail.com'
 __created_on__ = '12/7/2014'
 
 from data.text import samples as sam
 from data import charpool as charp
+from latinpigsay import generalfunctions as gfunc
 
 import re
 import string
 from string import ascii_letters
-
-
-
-class regexpreplacer(object):
-    def __init__(self, patterns):
-        self.patterns = [(re.compile(regex), repl) for (regex, repl) in
-                         patterns]
-    def replace(self, text):
-        s = text
-        for (pattern, repl) in self.patterns:
-            (s, count) = re.subn(pattern, repl, s)
-        return s
-
 
 
 class translator(object):
@@ -43,7 +33,7 @@ class translator(object):
         return self.__translated
 
     __vowels = 'aeiouAEIOU'
-    __rmcon = regexpreplacer(charp.contractions)
+    __rmcon = gfunc.regexpreplacer(charp.contractions)
 
     def __parsewords(self, words, vowels=__vowels, rmcon=__rmcon):
         for word in words:
