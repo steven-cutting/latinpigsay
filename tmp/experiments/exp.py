@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 __title__ = 'latinpigsay'
 __license__ = 'MIT'
 __author__ = 'Steven Cutting'
@@ -37,18 +38,22 @@ class translator(object):
 
     def __parsewords(self, words, vowels=__vowels, rmcon=__rmcon):
         for word in words:
+            # Whitespace does not require translation
+            if not word.strip():
+                self.__output.append(word)
+                continue
+            # Punctuation does not require translation
+            if not set(ascii_letters).intersection(word):
+                self.__output.append(word)
+                continue
             word2 = rmcon.replace(word)
             if word2 is not word:
-                self.__parsewords(word2.split())
+                if word[0].isupper():
+                    word2 = word2.capitalize()
+                self.__parsewords(re.findall(r'(?:\S+)|(?:\s+)', word2))
             else:
-                # Whitespace does not require translation
-                if not word.strip():
-                    self.__output.append(word)
-                    continue
-                # Punctuation does not require translation
-                if not set(ascii_letters).intersection(word):
-                    self.__output.append(word)
-                    continue
+                # compiled versions of most recent patterns are cached
+                # So no need to precompile
                 m = re.match(r'^(?P<pre>[\W]*)(?P<word>.+?)(?P<post>[\W]*)$', word)
                 d = m.groupdict()
 

@@ -1,6 +1,9 @@
-__author__ = 'steven_c'
+# -*- coding: utf-8 -*-
+__title__ = 'latinpigsay'
+__license__ = 'MIT'
+__author__ = 'Steven Cutting'
 __author_email__ = 'steven.c.projects@gmail.com'
-__created_on__ = '12/7/2014'
+__created_on__ = '12/3/2014'
 
 
 from data.pigs import piggies
@@ -40,7 +43,7 @@ class piggyprint(object):
         for n, string_n in enumerate(self.__listofstrings):
             length = 0
             gap = 0
-            if string_n is '':
+            if not string_n:
                 gap = self.__longeststring
                 spacers = " " * gap
             else:
@@ -50,7 +53,7 @@ class piggyprint(object):
 
             if self.__lenoflist is 1:
                 yield gfunc.stringframer(string_n)
-            elif n is 0:
+            elif not n:
                 yield gfunc.stringframer(string_n, spacers, '/', '\\')
             elif n is self.__lenoflist - 1:
                 yield gfunc.stringframer(string_n, spacers, '\\', '/')

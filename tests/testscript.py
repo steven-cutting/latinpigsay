@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+__title__ = 'latinpigsay'
+__license__ = 'MIT'
+__author__ = 'Steven Cutting'
+__author_email__ = 'steven.c.projects@gmail.com'
+__created_on__ = '12/7/2014'
+
 from data.text import samples as sam
 from latinpigsay import generalfunctions as gfunc
 from tmp.experiments import expfunctions as expfunc
@@ -8,13 +15,13 @@ from tmp.experiments import exp
 
 import piglatin as pl
 
-import requests as re
+import requests
 from itertools import izip
 
 import arrow
 
 '''
-bookgot = re.get("http://www.gutenberg.org/files/2600/2600.txt")
+bookgot = requests.get("http://www.gutenberg.org/files/2600/2600.txt")
 thebook = bookgot.text
 pigbook = pl.translate(thebook)
 
@@ -64,23 +71,23 @@ def comparer(file1, file2):
         #print exp.regexpreplacer(e)
         print '--'
 
-def test(exp=0):
-    if exp is 0:
+def test(translator=0):
+    if translator is 0:
         translated = lp.translator(sam.acidtest).returnstr
-    elif exp is 1:
+    elif translator is 1:
         translated = exp.translator(sam.acidtest).returnstr
-    elif exp is 2:
+    elif translator is 2:
         translated = translate(sam.acidtest)
     print '\n--\n'
     pp.piggyprint(translated).printall
     print '\n--\n'
 
-def test1(exp=0):
-    if exp is 0:
+def test1(translator=0):
+    if translator is 0:
         translated = lp.translator(sam.paragraphs).returnstr
-    elif exp is 1:
+    elif translator is 1:
         translated = exp.translator(sam.paragraphs).returnstr
-    elif exp is 2:
+    elif translator is 2:
         translated = translate(sam.paragraphs)
     print '\n--\n'
     pp.piggyprint(translated).printall

@@ -58,9 +58,15 @@ Paragraphs. test.
 Derp, derp   a.
 
 Simple test.
+Let's sentence ma'am let's full of ain't contractions I'm i'm couldn't've I'd.
+Fred's stapler.
+Fred's going to the movie.
+O'clock o'clock.
 Paragraphs. test.
 Derp, derp.
 """
+
+contsentence = "Let's sentence ma'am let's full of ain't contractions I'm i'm couldn't've I'd."
 
 sentence = 'If capture groups are used, then the matched text is also included in the result.'
 

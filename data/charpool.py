@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  3 18:57:39 2014
-
-@author: steven_c
-"""
+__title__ = 'latinpigsay'
+__license__ = 'MIT'
+__author__ = 'Steven Cutting'
+__author_email__ = 'steven.c.projects@gmail.com'
+__created_on__ = '12/3/2014'
 
 
 literals = ['\\', "\'", '\"', '\a', '\b', '\f', '\n', '\r', '\t', '\b']
@@ -20,6 +20,8 @@ punctuation = ['.', '!', '?', ',', ';', ':', '"', "'"]
 contractions = [(r'won\'t', 'will not'),
                 (r'can\'t', 'cannot'),
                 (r'i\'m', 'i am'),
+                (r'I\'m', 'I am'),
+                (r'ma\'am', 'madam'),
                 (r'ain\'t', 'is not'),
                 (r'(\w+)\'ll', '\g<1> will'),
                 (r'(\w+)n\'t', '\g<1> not'),

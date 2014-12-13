@@ -1,8 +1,10 @@
+# -*- coding: utf-8 -*-
 __title__ = 'latinpigsay'
 __license__ = 'MIT'
 __author__ = 'Steven Cutting'
 __author_email__ = 'steven.c.projects@gmail.com'
-__created_on__ = '12/7/2014'
+__created_on__ = '12/3/2014'
+
 
 from data.text import samples as sam
 from data import charpool as charp
