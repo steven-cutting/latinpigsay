@@ -6,7 +6,6 @@ __author_email__ = 'steven.c.projects@gmail.com'
 __created_on__ = '12/3/2014'
 
 
-from data.text import samples as sam
 from data import charpool as charp
 import generalfunctions as gfunc
 
@@ -21,7 +20,7 @@ class translator(object):
         # Separates text into words and whitespace
         self.__listofwords = re.findall(r'(?:\S+)|(?:\s+)', text)
         self.__output = []
-        self.__translated =self.buildstring()
+        self.__translated = self.buildstring()
 
     def buildstring(self):
         self.__parsewords(self.__listofwords)
@@ -51,7 +50,9 @@ class translator(object):
                 if not set(ascii_letters).intersection(word):
                     self.__output.append(word)
                     continue
-                m = re.match(r'^(?P<pre>[\W]*)(?P<word>.+?)(?P<post>[\W]*)$', word)
+                m = re.match(r'^(?P<pre>[\W]*)(?P<word>.+?)(?P<post>[\W]*)$',
+                             word
+                             )
                 d = m.groupdict()
 
                 i = 0

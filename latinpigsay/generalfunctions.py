@@ -7,7 +7,6 @@ __created_on__ = '12/7/2014'
 
 
 import requests
-import piglatinp as pl
 import re
 
 
@@ -24,17 +23,18 @@ def findlongeststing(listofstrings, minimum=0):
 # Used in:
 # piggyprint.py
 def stringframer(line, spacers='', start='<', end='>', afterstart=' ',
-               beforeend=' '):
+                 beforeend=' '):
     return "{a}{b}{c}{d}{e}{f}".format(a=start,
-                                   b=afterstart,
-                                   c=line,
-                                   d=spacers,
-                                   e=beforeend,
-                                   f=end,
-                                   )
+                                       b=afterstart,
+                                       c=line,
+                                       d=spacers,
+                                       e=beforeend,
+                                       f=end,
+                                       )
 
 
 class onlinetext(object):
+
     def __init__(self, url, name=''):
         self.__url = url
         self.name = self.__pickname(url, name)
@@ -77,6 +77,7 @@ class onlinetext(object):
         def namegenloop(name, counter, maxrecursivedepth):
             try:
                 with open(name, 'r') as f:
+                    f.close()
                     if count is 0:
                         return name
                     else:
@@ -89,13 +90,16 @@ class onlinetext(object):
         generatedname = namegenloop(filename, count)
         return generatedname + extension
 
-# From the book:
-# Title: Python Text Processing with NLTK 2.0 Cookbook (2010)
-# Author: Jacob Perkins
+
 class regexpreplacer(object):
+    # From the book:
+    # Title: Python Text Processing with NLTK 2.0 Cookbook (2010)
+    # Author: Jacob Perkins
+
     def __init__(self, patterns):
         self.patterns = [(re.compile(regex), repl) for (regex, repl) in
                          patterns]
+
     def replace(self, text):
         s = text
         for (pattern, repl) in self.patterns:
