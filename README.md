@@ -26,5 +26,3 @@ and Peace' in under 2.5 minutes --on a six year old laptop.
 This project is still very rough and under early development.
 But, the translator does work and so does the 'piggyprint' module.
 
-
-
