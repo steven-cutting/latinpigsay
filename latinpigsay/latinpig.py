@@ -13,18 +13,6 @@ import string
 from string import ascii_letters
 
 
-class regexpreplacer(object):
-    def __init__(self, patterns):
-        self.patterns = [(re.compile(regex), repl) for (regex, repl) in
-                         patterns]
-    def replace(self, text):
-        s = text
-        for (pattern, repl) in self.patterns:
-            (s, count) = re.subn(pattern, repl, s)
-        return s
-
-
-
 class translator(object):
 
     def __init__(self, text):
