@@ -13,6 +13,8 @@ import re
 import string
 from string import ascii_letters
 
+import logging
+_LOG = logging.getLogger(__name__)
 
 class translator(object):
 

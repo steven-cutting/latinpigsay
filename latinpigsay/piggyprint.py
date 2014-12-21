@@ -8,9 +8,10 @@ __created_on__ = '12/3/2014'
 
 from data.pigs import piggies
 
-import piglatinp as pl
 import generalfunctions as gfunc
 
+import logging
+_LOG = logging.getLogger(__name__)
 
 class piggyprint(object):
     """Prints an ASCII pig with a speech bubble above it.

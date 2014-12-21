@@ -9,6 +9,8 @@ __created_on__ = '12/7/2014'
 import requests
 import re
 
+import logging
+_LOG = logging.getLogger(__name__)
 
 # Used in:
 # piggyprint.py
