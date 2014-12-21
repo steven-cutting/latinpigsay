@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
 
     import logging
-    logging.basicConfig(filename='tests.py')
+    logging.basicConfig(filename='tests.log')
 
     #ts.compare2()
 
@@ -40,7 +40,8 @@ if __name__ == "__main__":
     print '\n\n'
     #print pl.translate('Derp derp.')
     #print lp.translate('Derp derp.')
-    if __name__ == "__main__":
+
+
     ts.test(1)
     ts.test1(1)
     ts.test2()

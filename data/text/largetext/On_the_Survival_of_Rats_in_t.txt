@@ -1,0 +1,985 @@
+On the Survival of Rats in the Slush Pile
+
+ 
+
+ 
+
+  
+
+ 
+
+ On the SURVIVAL of RATS in the SLUSH PILE
+
+ Michael Allen
+
+ Notes for Readers
+
+ On the Survival of Rats in the Slush Pile is being distributed free, on the internet, as a download in PDF format. It is available from www.kingsfieldpublications.co.uk.
+
+ The essay is Copyright © Michael Allen 2005. However, since the author spent so long writing the damn thing, he is anxious that as many people as possible should read it. Accordingly, you are free to print out a paper copy of the document if you wish; that is certainly the most convenient way to read it. You may photocopy that printout if you wish. You may also copy the file electronically, send it as an email to friends, and otherwise make any sensible use of it for non-commercial purposes. You should not mess with the author's prose, as he is sensitive about that sort of thing; and you should make it clear that he wrote the essay, not you. If you are smart enough to figure out how to make any money out of this thing, please contact the author, as he would like to know too.
+
+ First published on 5 February 2005 by Kingsfield Publications 1 Kingsfield Close, Bradford on Avon Wiltshire, BA15 1AW, UK
+
+ Any comments, suggestions, et cetera, should be sent to: mikel01@globalnet.co.uk
+
+ Please use the word 'Rats' in the subject header.
+
+ 
+
+ Contents
+
+ Introduction 5
+
+ Aims 5
+
+ Publishing from a writer's perspective 6
+
+ Dr Nassim Nicholas Taleb 7
+
+ The structure of the essay 8
+
+ Part 1: The concept of black swans 10
+
+ A definition 10
+
+ An example: Harry Potter 11
+
+ Implications 11
+
+ How black swans come about 12
+
+ Two observers reaching the same conclusion 13
+
+ Part 2: The experiment with rats 16
+
+ The experiment described 16
+
+ Flaws in the methodology 17
+
+ Survivorship bias 18
+
+ Nietzsche's error 18
+
+ The swimmer's body 20
+
+ Casanova: a case history 21
+
+ Next step 21
+
+ Part 3: The experiment with rats when applied to publishing 22
+
+ Applicability and relevance 22
+
+ Defining the slush pile 22
+
+ The role of literary agents 23
+
+ What the slush-pile process is designed to do 24
+
+ How the slush pile is dealt with 25
+
+ The results of the search through the slush pile 26
+
+ Famous rejections 28
+
+ Writers hit back 30
+
+ Flaws in the slush-pile methodology 31
+
+ Survivorship bias 31
+
+ Nietzsche's error 34
+
+ The swimmer's body 36
+
+ Casanova: a case history 40
+
+ How reliable and valid are the slush-pile results? 41
+
+ A general conclusion 42
+
+ The axe man cometh 44
+
+ Part 4: Strategies for slush-pile selectors
+
+ (agents and publishers) 45
+
+ Introduction 45
+
+ General difficulties in thinking 45
+
+ Is publishing a sensible business? 45
+
+ Why are big conglomerates involved in publishing? 46
+
+ Factors for individuals to consider 47
+
+ Why does anyone work in publishing? 48
+
+ How do we find the best books? 49
+
+ How to manage the slush pile: reactive procedures 51
+
+ Financing the slush-pile operation 51
+
+ Providing clear guidelines for submissions 53
+
+ How to manage the slush pile: proactive procedures 55
+
+ Prices paid 57
+
+ Rejection letters 57
+
+ Making decisions 58
+
+ Part 5: Strategies for slush-pile
+
+ contributors (writers) 59
+
+ Should writers be in this business at all? 59
+
+ Stoicism and dignity in the face of randomness 61
+
+ How to proceed, if you really must 62
+
+ How to find an agent/publisher 63
+
+ A possible way forward 64
+
+ The pro-am option 65
+
+ The rewards of independence 68
+
+ References 70
+
+ About the Author 72
+
+ 
+
+ ---
+
+ 
+
+ Introduction
+
+ Aims
+
+ This essay has two principal aims: first, to help writers, literary agents, and publishers to understand the full scale of the difficulties that face them; and second, to suggest strategies which will enable such participants in the book trade to survive and perhaps even prosper.
+
+ These aims may immediately be thought to be both presumptuous and unnecessary. After all, you are saying to yourself, people who work in publishing are all professionals; they know precisely what they're doing, and they don't need any help from smart-arse commentators.
+
+ That is true, up to a point. But there is, unfortunately, a considerable body of evidence to show that writers, in particular, have a grossly overoptimistic view of their own chances of achieving success (however defined); and every year brings a fresh crop of stories about publishers who have either paid far too much for a book which turned out to be a dud, or decided against publishing a book which some other firm accepted and then proceeded to turn into a smash hit. I immodestly suggest, therefore, that all riders on the publishing merry-go-round might do worse than spend a few minutes considering the thoughts which are presented here.
+
+ The essay should be particularly useful for writers, because they are the ones most likely to labour for years, motivated only by dreams rather than hard cash; and, when their dreams fail to materialise, they are the ones most likely to suffer psychological and physical damage, as a result of powerful emotions such as anger, bitterness, and frustration. It will do no harm at all for these people to have a clearer idea, at an early stage, of the nature of the problems they face.
+
+ By 'writers' I mean, for present purposes, novelists. Much of the essay will be written in terms of the problems facing novelists, but almost everything that I have to say will also apply to writers of non-fiction; and much of it will be relevant to playwrights and screenwriters.
+
+ The essay is written in the context of book publishing in the UK, but the position is not, I suggest, very different anywhere else in the world.
+
+ Publishing from a writer's perspective
+
+ Without writers there are no books. Without books there are no publishing firms, no leisurely lunches on expenses, no specialist book printers and binders, no book-trade van drivers, no librarians - and not even any readers. The whole of the book trade begins, therefore, with writers; with their hopes, fears, ambitions, and funny little ways. For that reason alone we should take a close look at this bizarre species.
+
+ Nearly all writers yearn to be published; not only do they want to be published, but they burn to besuccessful. They want to be rich, famous, and worshipped by the critics; they look forward to an orderly queue of admirers forming outside their bedroom door.
+
+ Writers recognise, of course, that this happy state of affairs cannot come about overnight; but in the early days, when hope is intense in their bosoms, they can see no reason why it should not be achieved by 4 p.m. next Thursday.
+
+ From a statistical point of view alone, such hopes are fundamentally absurd, and the material in this essay will explain in some detail why it is that writers are unlikely to be successful in achieving their ambitions.
+
+ The essay is prompted by my dismay, which has intensified over several decades, at seeing so many intelligent, sensitive, and hardworking people waste so much of their time on the largely futile business of trying to write and sell novels. (I have written about a dozen myself, without, so far, igniting any huge fires.) It irks me that human beings are so slow to learn, and, having learnt, are so ineffective at passing on what they have learnt. This essay is therefore my attempt to remedy what I see as certain deficiencies in the educational process, at least as far as fiction is concerned. I shall eschew, as far as possible, offering advice; but the facts, when explained, may suggest to readers that some courses of action are far more sensible than others.
+
+ In the course of this exercise, I hope to minimise the frustration and despair, and to maximise the profit and enjoyment, not only of writers but of all those involved in the book trade.
+
+ I shall try, as far as possible, not to apportion blame or to make too many criticisms of individuals who are doing their best in difficult circumstances.
+
+ Between us, we shall, I hope, develop a sense of proportion, and, above all, a sense of humour; the latter is an essential attribute on the part of those who wish to contemplate the vagaries of the book business while remaining sane.
+
+ Some of the facts and ideas which are set out here have already been presented to readers in other media: either in my blog, the Grumpy Old Bookman (www.grumpyoldbookman.blogspot.com), or in my book The Truth about Writing. (Note: full details of this and other major publications mentioned in the text can be found in the references section at the end.) There is, however, much new thinking on offer in this essay, and it has largely been inspired and stimulated by the work of Nassim Nicholas Taleb, who is the author of a book called Fooled by Randomness. Dr Nassim Nicholas Taleb Taleb is one of those rare creatures, someone who has a successful track record in the business world and yet is comfortable, and respected, in academia.
+
+ In the world of high finance, Taleb has held a number of senior posts, including that of managing director and head trader at Union Bank of Switzerland, and worldwide chief derivatives trader at CS-First Boston; he is currently Founder and Chairman of Empirica LLC, a research laboratory and financial products trading house in New York.
+
+ Taleb's educational background includes an MBA from Wharton and a Ph D from Universit&#381; Paris-Dauphine. He is a Fellow in Mathematics and Adjunct Professor at the Courant Institute of Mathematical Sciences of New York University, and Visiting Professor of Risk Management at Universit&#381; Paris-Dauphine.
+
+ Taleb first came to public attention as the author of Fooled by Randomness, the subtitle of which is 'The Hidden Role of Chance in Life and the Markets'. When first published, this was selected by both Amazon.com and the Financial Times as one of the best business books of the year, and is published in 14 languages. It has, however, a relevance far beyond the world of business.
+
+ Taleb's intellectual interests lie at the intersection of philosophy, mathematics, finance, literature, and cognitive science. He specialises in the risks of unpredicted rare events ('black swans'), and as an essayist he is principally concerned with the problems of uncertainty and knowledge.
+
+ For more information visit Dr Taleb's web site; the URL is www.fooledbyrandomness.com.
+
+ The structure of the essay
+
+ Part 1 introduces the reader to the concept of black swans, as defined by Taleb.
+
+ Part 2 describes a hypothetical experiment with rats, which Taleb uses as a means of illustrating a number of erroneous ways of thinking and arguing. The chief error is perhaps that of falling prey to survivorship bias, which means that the observer sees only the survivors of any particular course of events, and fails to take adequate note of the characteristics of the many other participants.
+
+ In Part 3, we note that Taleb's experiment with rats is in many ways analogous with the slush-pile procedure, as traditionally carried out in the offices of publishers and literary agents. We then proceed to review Taleb's various forms of faulty thinking, as they apply in the context of writing and publishing; in particular, we try to learn how to think clearly about publishing issues, a skill which is in notably short supply.
+
+ The evidence assembled in Part 3 demonstrates beyond question that randomness plays a major part in publishing; specifically, we learn that, provided a manuscript reaches a certain basic professional standard, it is randomness which thereafter determines the 'success' of that book.
+
+ The fourth part of the essay is intended to provide practical assistance to those who are involved in looking for suitable books to publish (slush-pile selectors). Starting from the most basic of questions - Is publishing a sensible business for companies or individuals to be involved in? - we move on to consider both reactive and proactive procedures for managing the slush pile.
+
+ Part 5 outlines a similarly pragmatic approach that may be applied by those are slush-pile contributors, i.e. writers.
+
+ Part 1: The concept of black swans
+
+ A definition
+
+ Before we proceed further, I need to introduce you to the concept of black swans.
+
+ In his book Fooled by Randomness, Taleb defined a black swan, in the context of investment management, as an unexpected and catastrophic event which could destroy even a so-called 'master of the universe'.
+
+ Subsequently, Taleb wrote an essay entitled Fooled by Success: the Black Swan and the Arts; and in relation to the arts Taleb defines a black swan as 'a piece of work that, unexpectedly, captivates interests, spreads like wildfire, and dwarfs other contributions.' As examples of these massively successful phenomena he quotes the Harry Potter books, Mel Gibson's movie The Passion of the Christ, and the success of the Beatles. (Taleb, you see, is not an intellectual snob.)
+
+ Black swans in the arts are distinguished by the fact that they occur extremely rarely (when compared with the total amount of work which is offered to the public), and yet they have enormous impact. They provide, in short, exactly the kind of success that every writer (or publisher, producer, actor, et cetera) yearns for.
+
+ Taleb argues that these black swans are random events. After they occur, many observers claim to be able to see that their success was inevitable, for reasons which they then proceed to define; most of these reasons have to do with the innate qualities of the work in question. But Taleb maintains that these post-event explanations are essentially false and unreliable. They are highly influenced by hindsight bias, which makes use of 'posterior information'. Observers of black swans tend to overestimate the analysable and underestimate the non-explainable.
+
+ Above all, those who claim to understand black swans (but only after they have come into view) are neglecting the 'silent evidence'. Taleb maintains that if we are to understand the factors behind the huge success of Harry Potter (to mention but one convenient example) we need to do more than recognise the qualities that are present in the Harry books; we also need to consider the qualities which were present in the thousands of manuscripts which were rejected by agents and publishers and which never even made it into print.
+
+ Similarly, Taleb suggests, if we were to try to pin down the reasons for the rise to stardom of some young actor, we would need to consider the qualities present in other young actors - those who were not, for some reason, given a part for which 400 men auditioned. We would need to identify what it was that caused the producer to choose our future star for a part in his film rather than one of the 399 other candidates; and we would be likely to find, Taleb avers, that the producer's choice had nothing to do with 'talent', however defined. Or, to put it another way, we would find that many of the rejected applicants had just as much talent as the future star.
+
+ An example: Harry Potter
+
+ Just in case you don't know the much-told story, it is worth recording that the first Harry Potter book was rejected by every major publisher in London (some sources say as many as 20); and when it was eventually bought by Bloomsbury, the one publisher who showed the smallest degree of interest, they paid but a small sum of money for it (sources say between £2,000 and £3,000). Clearly, none of the 'experts' who read the book in manuscript, and rejected it, had the slightest inkling of the massive money-making machine which they held in their hands.
+
+ Implications
+
+ The Harry Potter case is an all-too-typical example of the failure to identify a black swan at an early stage. And yet it is highly desirable to identify them, if possible, because of their massive power to generate income. The black swans dominate their competitors in a way which distorts the rewards available: they are part of, and may be the cause of, a winner-take-all mechanism.
+
+ In the book world, what this means is that bestsellers tend to become massive, while sales of 'ordinary' books are minuscule. It is not that bestsellers sell twice as many copies as the average novel: they sell hundreds of times as many.
+
+ This circumstance is observable in most of the arts: in other words, you are either overwhelmingly successful, in terms of money, fame, and reputation, or you are nothing.
+
+ Interestingly, the same clustering effect can be found in other contexts, outside the arts: similar concentrations can be found in the academic-citation system, and it doesn't matter whether the academic field is physics or social science.
+
+ It is also important to note that the concentration effect becomes more marked, not less, as the size of the pool of works on offer increases. The more product that is available, the more the big hits dominate and stand out.
+
+ How black swans come about
+
+ The appearance of a black swan is influenced by, among other factors, the 'tipping-point mechanism'. Contagious diseases spread furiously above a certain minimum level (the tipping point), but die down below that level.
+
+ In the arts, the mechanisms of contagion are accelerated by the media, and, of course, by word-of-mouth recommendation. Thomas Gilbert and his colleagues at the University of California have used some statistical methods which are normally applied to phenomena such as the spread of diseases, or earthquake aftershocks, in order to analyse the spread of information about books. They distinguish between exonogous (external) and endogonous (internal) stimuli. Publishers use exonogous methods of generating awareness of a book when they give it a large advertising budget; endogonous shock is what occurs through one person recommending the book to another.
+
+ Both exonogous and endogonous stimuli play a part in turning ugly ducklings into black swans. A large advertising budget may generate some initial awareness of the product, but it does not inevitably create a black swan; it may evoke nothing more than yawns. Endogonous effects, by contrast, are absolutely essential to the emergence of a black swan, whether it has a large publicity budget or not, and they cannot always be created, no matter how much money is spent; they either occur spontaneously, or they don't.
+
+ Taleb's principal conclusion about the black-swan phenomenon in the arts is that the process is 'far less fair than it seems to participants'. The randomness of the system is greatly underestimated. Furthermore, people involved in the arts tend to suffer from overconfidence, and overestimate the chances of their own success. This, believe me, is particularly dangerous for writers, but it can also be catastrophic for publishers who commit massive resources to books which flop. Example: the Dorling Kindersley collapse which occurred as a result of overprinting Star Warsbooks. Two observers reaching the same conclusion One of the reasons why I find Taleb's paper on black swans in the arts so intriguing is that it echoes, with added scientific and intellectual underpinning, my own conclusions, reached earlier and independently. My views on the 'secret of success' for writers were set out in Chapter 9 of The Truth about Writing: there I argued that success for writers is determined by circumstance.
+
+ Circumstance, I said, is a factor which some might call chance, fate, luck, serendipity, or karma. But the true definition of circumstance, for my purposes, iseverything that you cannot control, or even influence.
+
+ Here is an example of circumstance, drawn from the film industry. In the 1950s, the actor Montgomery Clift turned down the lead parts in four films. He declined (1) the part in Sunset Boulevard which was later played by William Holden; (2) the Marlon Brando part in On the Waterfront; (3) the James Dean part in East of Eden; and (4) the Paul Newman part in Somebody Up There Likes Me. As you will already have noticed, if you know anything about the history of the cinema, each of the actors who picked up a part that had been rejected by Montgomery Clift used that opportunity to establish his own name; and they all became stars as a result. None of which would have happened if Clift had decided to play any of the parts himself.
+
+ I even compressed my idea about circumstance into a mathematical formula, or expression (of sorts):
+
+ S :: C
+
+ This formula holds true, I suggested, where S = Success (however defined), and C = Circumstance (as defined above). The symbol :: was introduced by William Oughtred in 1631, and it means 'varies as to'. S :: C is therefore a compact way of saying that
+
+ Success varies according to Circumstance.
+
+ Both Taleb and I, therefore, approaching matters from wholly different directions, have concluded that success in the arts, and particularly success as experienced by writers, is a random event. It is not determined by hard work, who you know, or talent (not, at any rate, above a certain level).
+
+ You, the reader, will probably resist the Taleb/Allen conclusion at this point; but you at least are thoughtful enough to be reading this essay, so please reserve final judgement on the causes of the black-swan phenomenon until you have read the rest of the argument.
+
+ Taleb and I are not alone in reaching our conclusion about the effects of randomness aka circumstance.
+
+ In his autobiography Nudity in a Public Place, the actor John Nettles quoted a friend of his whom he described as 'a great literary figure and a major celebrity'. This individual remarked to Nettles: 'Nothing is more common today than successful men with no talent.... Success and celebrity do not necessarily depend on talent in these dog days and it is a good thing you never ever believe they do, otherwise you might miss out on the joke of the century.'
+
+ On a less elevated level than John Nettles's friend, one of the former Spice girls recently spoke with some awe about the popularmusic business; she was amazed, she said, that 'so many people with so little talent are making so much money.'
+
+ The remainder of this essay will enlarge on the idea that huge literary and/or commercial success for writers, who are not already famous names, comes (if it ever does) in the form of a black swan, or a random event. The discussion will then be used as the basis for generating strategies which might be adopted by those who work in the book trade. The strategies will, however, be of particular importance to writers - especially if they wish to avoid lasting psychological, and hence physical, damage; and if they wish to avoid allocating scarce resources (e.g. time and energy) to an almost certainly futile project.
+
+ Part 2: The experiment with rats
+
+ The experiment described
+
+ Taleb is under contract to produce a book on black swans; and, at the time of writing this essay, he has posted a draft chapter from the book on his web site. The present title of the chapter is 'On the Invisibility of the Drowned Worshippers', which is a reference to the work of Francis Bacon in the seventeenth century.
+
+ Bacon, it seems, was once shown a set of portraits of men who had survived shipwrecks; these portraits had been commissioned by the Church authorities. The subjects of the portraits were all good Christians: before embarking on a voyage they had taken the steps recommended by the Church for those in peril from the sea; these preparations no doubt included going to communion, spending a great deal of time praying, and, I imagine, making a substantial contribution to Church funds.
+
+ The result of these Christian preparations was that, when their ship sank, lo and behold, God rewarded them by saving their lives: hence their portraits, which were presented by the Church authorities as an example to others.
+
+ It was Francis Bacon who asked one of those questions that you're not supposed to ask. Where, he enquired, were the portraits of those mariners who, before their voyage, had also gone to communion, said their prayers, and made a contribution to Church funds, but had nevertheless drowned? These were the 'drowned worshippers' who had become invisible. The Church, through some oversight, had not mentioned them, or commissioned their portraits.
+
+ The drowned worshippers constitute a phenomenon which will often be mentioned in this essay: survivorship bias. We human beings are fallible creatures, and we have a habit of seeing only the survivors of a set of experiences. This, Taleb tells us, is an error in thinking which can get us into serious trouble.
+
+ In the course of his draft chapter from the book on black swans, Taleb sets out to describe several other kinds of erroneous thinking. In order to illustrate these errors, he asks us to imagine an experiment with rats. (And since this is a hypothetical experiment I can give an absolute assurance that no animals were harmed during the writing of this essay.)
+
+ Suppose, Taleb says, that we have access to a city full of rats: rats of all kinds, fat, thin, sickly, strong, well proportioned, et cetera. In order to determine which of these rats are the strongest, we select a random sample, one that is truly representative of the rat population as a whole. We then put the sample group into a large vat and subject the rats to increasingly high levels of radiation.
+
+ As the levels of radiation increase, many of the rats will die. By the end of the experiment (unless you take it too far and kill them all) you will be left with a small number of survivors.
+
+ Taleb uses this hypothetical experiment, and its results, to illustrate a number of errors in thinking.
+
+ Flaws in the methodology
+
+ First, we need to think about the experimental procedure itself. Alert readers will already have noticed that the methodology of the experiment, as described for the purposes of this essay, is flawed.
+
+ The intention is to select the 'strongest' rats. But while the experiment will certainly reduce the numbers of rats, there is no guarantee that the survivors will be the strongest.
+
+ The surviving rats would only be the 'strongest' in the limited sense that they were the ones best able to withstand increasing doses of radiation. They might not be the strongest in terms of ability to survive without water, or ability to climb fences. The ability to withstand radiation might or might not be a useful characteristic in the real world.
+
+ Second, at least some of the survivor rats may have survived by pure chance. At the moment when the next blast of radiation was administered, a 'weak' rat may have been shielded from radiation by a 'strong' rat. Furthermore, there might be some variations in the way in which the radiation was distributed around the vat: in some spots (perhaps towards the rim) the rats might absorb less than in other spots.
+
+ In short, the design of the procedure leaves much to be desired; and this, we shall see, is the case with some procedures in publishing.
+
+ Survivorship bias
+
+ We have already noted the phenomenon which is known in statistics as survivorship bias; and history suggests that it is all too easy to fall prey to this lax way of thinking.
+
+ Survivorship bias involves mistaking what you see for what is really there. The tendency is for human beings to see only the survivors of some set of circumstances, and to ignore those who, for one reason or another, disappeared or dropped out as events proceeded. We often find ourselves earnestly discussing the traits in a cohort of survivors when, in truth, those traits are no different from those in a much larger population; if you consider the circumstances carefully it may be apparent that the survivors emerged as a result of sheer randomness, rather than through the possession of some special qualities.
+
+ It may be, if clear thinking is applied to any set of events, that those who dropped out, voluntarily, or were eliminated, perhaps as a result of chance, have at least as much to teach us about what is important and relevant as those who survived.
+
+ Nietzsche's error
+
+ Nietzsche is responsible for the aphorism 'What does not kill me makes me stronger.' If repeated, in a suitably solemn tone of voice, in front of a group of people who are aware that Nietzsche is a Big Name in Philosophy, this dictum may well induce nods of agreement. And you may sometimes hear people say, after a young person has had some kind of setback, 'Well, he will be all the better for the experience.' Once in a while it might even be true.
+
+ In general, however, Nietzsche's aphorism is nonsense. On the physical level, a car crash which brings you close to the point of death may leave you paralysed for life. So, although you are not actually dead, you are certainly not stronger than before. And in an emotional context, a bereavement which causes you seriously to contemplate suicide may, even if you do not succumb to the temptation, leave you lonely and depressed.
+
+ So it is with our rats. The rats which survived our experiment are by no means necessarily stronger. In reality, there is a good chance that they will be weaker. Radiation is not often good for you.
+
+ Taleb quotes a newspaper article about the Russian Mafia, which referred to the new generation of gangsters as being 'hardened by their Gulag experiences'. But, if any modern gangsters have indeed survived the Gulag, they are hardly likely to have been 'hardened'; the camps were not famous for providing fitnesstraining courses.
+
+ Despite these readily apparent flaws in Nietzsche's aphorism, there are circumstances in which peoplebehave as if it were true. We oftenassume that survivors of some intense selection process are stronger than those who were eliminated. We assume that survivors are necessarily the best of the cohort; whereas in reality the procedure may have been flawed and they may simply have emerged by chance.
+
+ The dead rats, you see, are no longer around to steal our cheese, or to give us Weil's disease. Whatever their strengths or weaknesses, virtues or vices, they are gone, and are mourned by nobody. We forget them. But it is a mistake to overlook them because some of them, at least, might well have had characteristics which would be valuable outside the context of our flawed selection procedures.
+
+ Another point to note is that the survivors, the chosen few, will themselves tend to conclude, falsely, that they are necessarily superior to those who died. Usually, the nature of rats being what it is, they will conclude that they areinfinitely superior to the dead. Some humans share this characteristic.
+
+ The swimmer's body
+
+ Another mistake in thinking is described by Taleb as 'the swimmer's body' error.
+
+ It is observable that athletes who participate in different events have differing physiques: rugby forwards are big and beefy; high jumpers are tall and slim; and swimmers often have rather beautifully proportioned bodies with 'elongated muscles'.
+
+ Observers who are fuzzy thinkers sometimes conclude from this that if they want to have a beautifully proportioned body they should take up swimming. But this is what is known, in popular parlance, as getting things arse over tip.
+
+ Swimmers do not end up looking beautiful because they took up swimming; they excel at swimming because they have the kind of physique which lends itself to fast progress through water, and which is itself aesthetically pleasing, the more so when developed by exercise.
+
+ The swimmer's body error often involves the false attribution of a particular outcome to a particular set of traits. In the business world, it is not unusual to find books which purport to identify the common characteristics of successful entrepreneurs. The analysis is usually based on the careers and backgrounds of those who have got to the top, and it generally yields a list of such 'success factors' as optimism, confidence, and a willingness to take risks. Yet had the researchers interviewed those whofailed in business, going bankrupt within two or three years, they would undoubtedly have found the same characteristics present.
+
+ By the way, it does not necessarily follow from this (should you be tempted to think it) that the successful entrepreneurs are successful only as a result of chance, or random events; but it is a mistake to attribute their success to qualities which they share with many of those who failed.
+
+ Casanova: a case history
+
+ Casanova's famous memoirs tell of a life of continual setbacks and escapes from dangerous situations, followed by periods of prosperity and advancement. His was a roller-coaster ride, and it seems that, when it came to overcoming difficulties, Casanova was an unusually resourceful man.
+
+ This impression is false. In the above paragraph, the words 'it seems' are the crucial ones. We know about Casanova simply because, through a series of accidents of fate - random events - he happened to survive long enough to write a ten-volume set of memoirs about his escapades.
+
+ Other adventurers, thousands of them, doubtless got into similar scrapes and difficulties, but they ended their days on a dueller's sword or died in a debtors' prison. Casanova was not unusually talented or resourceful: there was nothing to differentiate him from any other self-serving layabout except that Madame Randomness happened to take a shine to him.
+
+ Next step
+
+ It would be possible to spend some time discussing Taleb's arguments and examples, which are not without their own weaknesses. That, however, is not the point of this essay. The point here is to learn to think clearly about writing and publishing; and to that end we will now apply some of Taleb's ideas to the present-day circumstances of writers and publishers, and see what emerges.
+
+ Part 3: The experiment with rats when applied to publishing
+
+ Applicability and relevance
+
+ Taleb's ideas about randomness have proved useful in facilitating clear thinking in a number of fields of activity: for example, Card Playermagazine tells us that they are applicable to the game of poker. It will therefore be useful to go through each of the points made in Part 1 and to examine their relevance to the book trade in general and the writer's position in particular.
+
+ The first thought that struck me, on reading Taleb's draft chapter for his book on black swans, was that the experiment with rats is closely analogous to the process of selecting books from the slush pile. And, just in case there is anyone reading this who doesn't know what a slush pile is, let me explain.
+
+ Defining the slush pile
+
+ Unknown and unpublished writers tend to be, as remarked in Part 1, wildly ambitious and eager for fame, money, and literary reputation. To achieve these objectives they have to get published. And to get published they have to arrange, as a first step, for their work to be offered to publishers.
+
+ In the past, it was common for novelists to submit their completed manuscripts to publishers themselves. Every day the postman would deliver, to every publisher in the land, a pile of ten or twenty manuscripts. These unsolicited submissions are known in the book trade, throughout the English-speaking world, as the slush pile.
+
+ The term 'slush pile' gives a clear flavour of the contempt in which unsolicited submissions are held. It is widely agreed in publishing circles (on the basis of countless years of experience) that many of these manuscripts will be unreadable, unpublishable junk. But it is also the case (as history demonstrates) that the slush pile will occasionally contain a black swan.
+
+ One point to note is that every writer, and every novel, is at some point in someone's slush pile. With absolutely no exceptions.
+
+ At some stage, and possibly at many different stages, decisions have to be made on whether to continue to consider a book for publication, or to send it back to its author with a rejection slip. This iterated process has its parallels with the rats-in-the-vat experiment. The rats which were submitted to radiation included every type of rat: fat, thin, strong, weak, young, old. Similarly the slush pile contains writers and manuscripts covering the whole range of ability and quality, from masterpieces to illiterate rubbish.
+
+ The role of literary agents
+
+ For over a hundred years there have been individuals within the book trade who undertake to handle the business side of writers' affairs for them. These literary agents, as they are called, will submit manuscripts to publishers, negotiate a contract, and check royalty statements; they may well give advice on market demands, provide detailed comment on content, undertake editing, and generally act as an intermediary between writer and publisher when things go wrong (as they all too frequently do). In return for these services, an agent will receive an agreed percentage of a writer's income.
+
+ The unknown writer, let us say a single mother living on a council estate in Gateshead, will these days find it impossible to submit a novel to a major publisher; the publisher will simply send it back to her, unread, accompanied by the advice that she should try to find an agent to represent her. So the unknown young woman from Gateshead will end up in an agent's slush pile rather than a publisher's.
+
+ If, at some point, the writer is accepted as a client by an agent, the agent will then offer the book to a publisher, usually to an editor with whom the agent is on first-name, let's-do-lunch terms. The book is then part of the editor's slush pile.
+
+ If, in the course of further time, our young lady from Gateshead happens to generate a black swan which amazes the entire universe with its brilliance, she willstillfind that her next novel willstill end up in the editor's slush pile, in the sense that its publication will have to be subject to a conscious decision. The new book may rise immediately to the top of the editor's reading pile, and the decision to go ahead with publication of the second novel may be uncontested, but a decision will have to be made, none the less.
+
+ And by the way, publication of book number two, or number twenty-two, even to follow a big success, may not be uncontested; it may be a matter of considerable debate. In 1986, after Dean Koontz had published fifty-four novels, he appeared on the US hardcover bestseller list with Strangers. He then wrote Lightning, which involved him in a bitter struggle with his editor, who prophesied the end of his career if it was published. Koontz insisted that publication should proceed, and in due course he was proved right, because Lightning became another hardcover bestseller. The editor concerned was Phyllis Grann, then at Putnam. What the slush-pile process is designed to do The purpose of the experiment with rats was to find the 'strongest' rats - strength being regarded, by the designers of the experiment, as the most desirable of all possible characteristics. To this end, increasingly high doses of radiation were administered until in the end there were only a few rats left.
+
+ But what is the slush-pile process - whether undertaken by agents or publishers - designed to do?
+
+ Everyone in the book trade is anxious to find the 'best' books. Different participants in the trade will have differing definitions of 'best'. For some it will mean the books which generate the most income. For others it will mean the books which get the most favourable reviews from the highbrow critics. But if the submission and selection process has any purpose at all it is to select the 'best' books from the point of view of the organisation conducting that process. In particular, it is surely the hope of most parties that the process of selecting books from the slush pile will throw up an occasional black swan.
+
+ How the slush pile is dealt with
+
+ If, every day, the postman brings even as few as ten manuscripts into an agent's office, the agent must assume (if she is willing to consider them at all) that among these unsolicited and unpromising submissions there may perhaps be the twenty-first-century equivalent of Sherlock Holmes, James Bond, or Harry Potter; or perhaps a Booker Prize winner. She therefore has to give at least some serious consideration to these manuscripts.
+
+ Perhaps our agent is super-conscientious, a mistress of the management of time, and can manage without sleep. In those circumstances she may even do the initial trawl through the manuscripts herself. But that is unlikely to happen. It is more than probable that the busy agent will employ a reader to do the job for her. The reader will discard the manuscripts which are judged to be hopeless and leave a relatively manageable number for a final decision by the boss.
+
+ Over the past fifty years or so much has been written about the role of the slush-pile reader; the experiences described are mainly those of individuals who worked in publishers' offices in the days when big-time publishers were still willing to consider submissions from the public; but we shall be safe, I think, in assuming that the process is much the same wherever it occurs.
+
+ Since the job of sorting through the slush pile is generally reckoned to be soul-destroying, it is almost invariably given to the newest and most junior member of staff: the one who is in no position to refuse. Such people are seldom given any training. (Until recently no one got any training in publishing anyway, unless it was in the form of 'Sit by Nelly and watch what she does.')
+
+ The volume of work is such that the reader cannot possibly give more than a few minutes to any one manuscript, unless it proves to be unusually promising. Often, those who have done the job claim that to read one paragraph is sufficient to enable a rejection decision to be made.
+
+ Here is what one publishing professional, Andrew Taylor, had to say about the task, writing in The Bookseller in 1996: 'In an average day's work at a publisher's office, I aim to assess 7 to 10 submissions and write reports on each of them which vary in length from 2 to 500 words.'
+
+ Mr Taylor is more generous with his time than some publishers' readers. Giles Gordon once stated that when he was the slush-pile reader at Gollancz, he learnt how to tell whether a manuscript was any good within 15 seconds. 'It's just a matter of practice,' he said airily.
+
+ Literary agent Pat Kavanagh takes much the same view. 'Two pages will tell you if a book from the slush pile is worth pursuing.'
+
+ The results of the search through the slush pile
+
+ It is generally reckoned that, however carefully or otherwise the slush pile is read, it is rare to find anything in it which is worth even the most cursory consideration as a candidate for publication.
+
+ The agent Pat Kavanagh, mentioned above, was asked how often she had found a book in the slush pile that was worth pursuing. 'Never,' she said. 'I don't believe it has ever happened to me.'
+
+ Barry Turner, in The Writer's Handbook, once mentioned an agent who fared a little better than that, but not much. In 14 years of reading 25-30 manuscripts a month, the agent found 5 good ones. Another agent, at Curtis Brown, personally received 1,200 manuscripts in one year, and took on 2 of the authors as clients. One agent at perhaps the largest UK agency remarked recently that she was having to read 3,000 manuscripts in order to find 1 client.
+
+ In 1989, The Timesreported that the well-known British imprint Hutchinson was receiving about 1,000 manuscripts a year. One of these unsolicited manuscripts might be publishedevery couple of years or so. Maybe.
+
+ At Chatto and Windus the Timesreporter was told that about 10 manuscripts arrived every day. Were they all read? Long pause. 'Yes.' Were any ever taken on? Long pause. 'No.'
+
+ The largest publisher of romantic novels in the UK is Mills & Boon, or Harlequin Mills & Boon, to give the firm its full name. The Mills & Boon editorial director has stated that the firm receives 6,000 manuscripts a year from hopeful and so-far-unpublished writers. Out of these submissions, the company takes on, in a good year, about 10 new writers.
+
+ In 1995, the owner of two small publishing firms in the USA reported in Publishers Weeklythat he had received nearly 7,000 offers of books in the previous twelve months, and had decided to accept 12 of these submissions.
+
+ A much larger and more prestigious American firm, Viking, agreed to publish only one unsolicited manuscript in 26 years; that was Ordinary People,by Judith Guest. The book went on to become a bestseller as well as the basis for a successful film.
+
+ Finally, the publisher Anthony Blond, writing in The Spectator, maintained that the acceptance rate of unsolicited manuscripts was 1 in 2,000, in both London and New York.
+
+ And so on. Taleb rightly advises us against drawing general conclusions from insufficient data (the Baconian flaw), but it would be wearisome, and it is surely unnecessary, to go further.
+
+ We can safely conclude, I suggest, that very few manuscripts are picked out of the slush pile - anyone's slush pile, whether agent or publisher - with a view to being taken further.
+
+ It follows therefore, as dogs follow a bitch in season, that a writer's chances of achieving any kind of success are extraordinarily small. There is only the slimmest chance that a new and as yet unpublished writer will be taken on to an agent's list of clients; even if taken on as a client, there is no guarantee of publication; and even if the writer is published, the chances of achieving any kind of critical or commercial success are also small.
+
+ Famous rejections
+
+ Few manuscripts are selected from the slush pile; but we know for certain that some of those which are rejected are in fact worthy of publication - worthy by any standards, whether literary or commercial.
+
+ We have already had one example of a black swan which was unrecognised by everyone when it was still in manuscript: Harry Potter. The sole editor in London publishing who was interested in the first Harry Potter book, by a completely unknown author, was Barry Cunningham of Bloomsbury. 'If it hadn't been for Barry,' said J.K. Rowling in 2000, 'Harry Potter might still be languishing in his cupboard under the stairs.' A long succession of editors had previously described the book as 'too long', 'too complex', and 'too old-fashioned'.
+
+ This instance is almost enough, on its own, to prove that slushpile readers' judgements are fallible. However, we don't need to limit ourselves to one example. Here are some others. MASH, which became one of the most famous series in the history of television, was originally a novel. It was rejected by 21 publishers over a period of seven years before eventually finding a home. After publication, it was adapted as a successful cinema film before being developed for television.
+
+ In a more literary vein, the most famous case is that of the American novelist, John Kennedy Toole. In the early 1960s Toole was made emotionally unstable by the frequent rejection of his book A Confederacy of Dunces, and in 1969 he committed suicide.
+
+ Toole's mother then took on the task of trying to find a publisher for the book on which her son had laboured so hard. She finally managed it, and in 1981 the novel was awarded the Pulitzer Prize.A Confederacy of Dunceswas hailed by the New York Times as a 'masterwork of comedy' (though I'm afraid I never got so much as a smile out of it myself).
+
+ There are many other cases in publishing history of books becoming famous and successful only after a long struggle to achieve publication. James Joyce's Dubliners was rejected by 22 publishers; and Baroness Orczy's The Scarlet Pimpernel by 12. There are so many such ill-advised rejections, in fact, that a whole book has been written about them: Andr&#381; Bernard's Rotten Rejections. This book includes, among other things, a letter from a publisher in reference to an agent's submission of an early John Le Carr&#381; novel. 'You're welcome to Le Carr&#381;,' said the publisher. 'He hasn't got any future.'
+
+ George Greenfield, an agent, told a story about Enid Blyton, who was published by Macmillan, and whose innumerable books for children sold so many copies that they paid the salaries of most of the staff. On one occasion Enid had heard that her usual editor had left the firm, but no one had told her the name of her new editor. So, when she had completed her next book, she simply addressed it to 'Macmillan & Co'. The manuscript went into the slush pile, and in due course was rejected.
+
+ A similar instance of the rejection of a work by a famous author occurred early in the career of Giles Gordon.
+
+ Giles was then working for Hutchinson, which was run by Robert Lusty. At the time, Hutchinson's most profitable author was Dennis Wheatley, who is now largely forgotten but was then a sort of English Stephen King. At his death, Wheatley had 50 books in print, and total sales were 41 million copies. As with Enid Blyton, the income from his novels was making a massive contribution to his publisher's profits.
+
+ Giles Gordon was a young man with fastidious tastes, and by his own admission he felt nothing but contempt for Wheatley; and so, when Wheatley's new novel arrived, Giles had it sent out for a slush-pile report as if it was from an unknown.
+
+ The report which came back was not favourable. 'The book is terribly hackneyed,' declared the reader. 'Decline.'
+
+ Giles showed this report to his boss, Robert Lusty, who was not amused. Giles was told to publish the book in short order.
+
+ 'In spite of my best efforts,' said Giles, 'Dennis Wheatley's career continued to prosper.'
+
+ This story demonstrates a number of points. One, that young men are often arrogant, ignorant and stupid; two, that mature publishers usually develop a degree of common sense; and three, that slush-pile readers... Well, what can one say about the Hutchinson reader in this case? He or she failed to recognise a new book by the firm's principal asset. Does this generate any confidence in that reader in particular, or the slush-pile process in general? Writers hit back Every so often, repeated rejection of what the author believes is a good book leads to an attack of blind rage, out of which comes a determination to prove that publishers are complete fools. Sadly, this is not too difficult to achieve, at least in particular instances.
+
+ The usual procedure to obtain revenge is to type out a chapter or two of a current bestseller, give it a new title, and submit it to publishers as your own work. I know of at least three occasions when this experiment has been carried out, with results which will not, I think, surprise you. I will quote only one example here.
+
+ In the summer of 2000, the French publisher Plon issued a novel which had been written by a famous television presenter; the book was a great 'success', in that the author was interviewed widely, made many personal appearances, and the public was persuaded to buy a large number of copies.
+
+ The magazine Voici decided, however, that this novel was less than interesting, and that it would never have been published at all had it come from an unknown author. Voici typed out the first chapter of the book and offered it, under a pseudonym, to every leading publisher in France. None of them wanted to read the full manuscript, and none even recognised it as the season's hit - including Plon, which had published the book in the first place.
+
+ We have surely assembled enough evidence about the slush pile. We now need to consider some of Taleb's types of erroneous thinking, apply these to the world of publishing, and see what can be learnt which might be of value.
+
+ Flaws in the slush-pile methodology
+
+ We noted above that the experiment with rats was designed to identify the 'strongest' rats, and that it failed to do so because of flaws in the methodology.
+
+ There is sufficient evidence provided above (and elsewhere) to convince the author of this essay, if no one else, that the slush-pile procedure is also flawed. It is intended to identify the 'strongest' or the 'best' books (however defined), and it demonstrably fails to do so.
+
+ Taleb tells us that, in any experiment or procedure, there will be a difference between the desired outcome (in this case identification of the best books) and the actual outcome if there is either variance in the base cohort, or randomness in treatment.
+
+ In the slush-pile procedure both of these factors are present.
+
+ The base cohort contains a wide range of variance. The books submitted will range from the sub-literate to the masterly. Some writers can spell and punctuate; some can't. Some writers will reveal a lifetime of experience; some will display a youthful naivety.
+
+ Secondly, there is massive randomness in the treatment of the books submitted. A variety of readers are likely to be employed; they have their own preferences, their own likes and dislikes, and these will differ one from another. The source of a submission (author, unknown agent, high-powered agent) will itself colour the willingness of the reader to 'give the book a chance.'
+
+ The slush-pile procedure, we will allow, does bring about the publication of books which reach a basic, but fairly modest, professional standard. But no more. It does not facilitate, much less guarantee, the identification of black swans. The procedure, as normally operated, is deeply unsatisfactory.
+
+ Survivorship bias
+
+ Indulgence in the faulty thinking known as survivorship bias is universal throughout publishing.
+
+ Slush-pile readers, editors, publishers in general, agents, critics, media commentators, readers, and (published) writers - all have a marked tendency to assume that the slush-pile procedure actually works, and that the survivors are indeed the best.
+
+ If pushed up against a wall, with a loaded gun inserted into a nostril, most publishing professionals will admit that the selection of the 'best' books is subject to occasional errors. (We have encountered plenty already.) But the next day, the same person will fall back into the old (and incorrect) mode of thinking, and the slushpile procedure will continue to operate, unchanged.
+
+ This is probably the place to point out that the most dramatic illustration of survivorship bias in the book world occurs following the award of a prize. Let us consider, for instance, the Booker Prize (properly the Man Booker Prize), which is currently the most prestigious literary award in the UK.
+
+ If you and I are presented with a piece of string, and are asked to guess its length, you may say that it is 15 inches long, and I may say that it's 18 inches. In order to resolve our disagreement, we can measure its length against a ruler and come to a conclusion which all sane parties will accept as correct.
+
+ But when you and I are faced with a novel, and asked to say whether it is a masterpiece or an overblown piece of self-indulgent nonsense, there is no universally recognised scale against which we can measure the book and come to a clear conclusion. Judging a novel is a matter of taste and sensibility, and you are likely to maintain that your taste and sensibility are superior to mine.
+
+ As far as the Booker Prize is concerned, it is safe to say that the choice of the 'best' book of the year is inevitably a matter of opinion rather than fact. And not even unanimous opinion. In almost every year there are press reports of disagreements among the judges, and in some years we hear of 'compromise choices' or the chairman's casting vote. We also know that, in one particular case, the eventual winner was unusually fortunate.
+
+ In 2002 the winner of the Booker Prize was Life of Piby Yann Martel. Many newspaper reports at the time told us that this book had been rejected by Faber, the firm which had published Martel's earlier work; the book had also been turned down by at least five other major publishers. So if the eventual publisher, Canongate, had not taken the book, it is likely that the manuscript would have remained in the author's filing cabinet. Furthermore, if the book had been accepted by one of the bigger firms, it would not even have been entered for the Booker Prize in the first place, because the big firms are only allowed two nominations and have to enter their most famous authors; if they don't, the famous authors are likely to go elsewhere.
+
+ The Life of Pisaga provides a beautifully clear demonstration of the random nature of decision-making in publishing. Here we have a book which was turned down for publication by numerous 'good judges'. It was entered for the Booker Prize by a small firm which had no stronger candidates. And it so happened that the particular set of judges who were reading in 2002 happened to like it best. Or a majority of them did.
+
+ All rational observers will agree that Life of Pi, or any other Booker winner, cannot sensibly be described as thebestbook of the year in any absolute sense. The Life of Piepisodeshows us, undeniably, that there might have been other books that year which could, quite possibly, have found favour with the judges if they had been submitted. The most that can be said of the book which wins the Booker Prize is that it is the one which (of those presented for their judgement) the judges liked the best.
+
+ But observe, please, what happens when the winner of the Booker Prize is announced (in any year). What happens is that the media, the critics, and the public, all behave as if thereissome absolutesense in which the winner is the best book of the year. They act as if the book has been held up against a ruler, a universally agreed scale, and has been found, indisputably and scientifically, to be 'better' than any other.
+
+ This very week, for instance, I was given a copy of the New York Review of Books, in which there is a lengthy review of the most recent Booker winner; the article runs to 108 column inches. Similar articles are no doubt published every year. And this 'superstar treatment' will be repeated in newspapers and magazines throughout the English-speaking world.
+
+ It is the winning novel, please note, which is treated in this way - not the runners-up; and certainly not the good books which were not submitted by their publishers; anddefinitely not the books which didn't even make it into print. It is the winning author who will be interviewed on television, invited to writers' conferences, and made the subject, in due course, of earnest Ph D theses by bespectacled young people who can think of nothing better to do with their time than waste it by deconstructing a novelist's prose. This is the winner-take-all mechanism in its most unforgiving form.
+
+ The runners-up, the non-shortlisted books, and the unpublished books, all those are the drowned worshippers and dead rats of the fiction world; they are losers who disappear from our sight, never to be heard of again. And yet we know, beyond doubt, that but for the workings of randomness, which favoured the winner and disfavoured the drowned worshippers, there might be one, ten, or a hundred other books which could, in different circumstances, have proved to be more enticing to the judges than the eventual winner.
+
+ Survivorship bias in the book world is therefore brutal, vicious, and deadly. There is no point in complaining about it: it is just the way things happen. The world in general, and the book trade in particular, is unfair, unjust, and patently absurd in its workings. But all those who work in the book trade, in particular those who write and sell novels, need to be aware of this situation. And they need to ask themselves whether a business in which randomness is so powerful a factor in the distribution of rewards is a business which sensible people should allow themselves to be involved in.
+
+ Nietzsche's error
+
+ Nietzsche, you will recall, told us that 'What does not kill me makes me stronger.'
+
+ What, if anything, can we make of Nietzsche's alleged words of wisdom in relation to publishing; in particular, in relation to the slush pile?
+
+ Having your novel rejected by a slush-pile reader certainly does not kill you. So suppose we examine the view that rejection makes you a better writer.
+
+ Rejection will certainly have noticeable and possibly dramatic effects, the chief of which are usually emotions such as anger, disappointment, and disgust. (The rats, by the way, had no choice about participating in the experiment. But it is not compulsory to submit anything to a slush pile. Therefore any injury which results from slush-pile experiences is a self-inflicted wound.)
+
+ Does rejection make you more determined to succeed? Possibly. But it may also cause a writer to decide (probably quite correctly) that this writing business is a fool's game. A writer who produces a professional piece of work, and is yet unable to persuade an agent to take him on, or a publisher to invest in his book, may well conclude that the slush-pile procedure is impossibly flawed and that sensible people would not continue to waste postage on it. I happen to believe (without empirical evidence to support my view) that the writers who come to this conclusion are probably the ones who would do best in publishing if they actually persevered; because they, at least, have proved capable of rational thought. By contrast, it is the all-time, never-going-to-be-publishable losers who will see rejection as a reason to redouble their efforts.
+
+ The rejected writers, whether they drop out altogether or not, disappear from sight; just like the dead rats. Their strengths and weaknesses, virtues and shortcomings, are lost to us. Let us consider the consequences of that.
+
+ We noted, above, that MASH was rejected by 21 publishers, and The Scarlet Pimpernel by 12. Suppose both these authors had decided not to bother with the book business any more, after 20 and 11 rejections respectively. In that case these two works would have been lost to us for ever.
+
+ And the survivors, of course - those who are selected for submission by agents, and are subsequently put under contract by publishers - they will tend to assume, human nature being what it is, that they survive and prosper because of their natural inborn talent plus a great deal of hard work. Such writers will assume, in 99 cases out of 100, that they are superior to those who were rejected.
+
+ The same assumption will confidently be made by those who have done the selecting; because they, remember, have sufficient skill to decide within fifteen seconds, or a page and a half, whether a book is worth pursuing.
+
+ Such assumptions, on the part of both selectors and selectees, are in my view wholly unjustified, and I hope we have accumulated enough examples by now for you to understand why.
+
+ The swimmer's body
+
+ Errors in thinking of the 'swimmer's body' type are widespread in the field of writing and publishing.
+
+ Essentially, swimmer's body errors involve getting things back to front. For example, in most trades and industries, companies boast about the high sales of their product; but publishers boast about its high cost (in the form of advances to authors).
+
+ We also noted earlier that it would be foolish to take up swimming in the hope of acquiring a beautiful body. Champion swimmers are not beautiful because they swim; they swim because they have bodies that are eminently suitable for swimming.
+
+ Similarly, it would be foolish for writers to emulate the working methods of successful and famous writers on the assumption that use of the same working methods will necessarily lead to similar success.
+
+ Many years ago, when I was young and impressionable, I read the famous volumes of interviews with writers which had been published in the Paris Review. What struck me most forcibly was that many of those writers seemed to operate on the basis of inspiration (or claimed to). What happened, allegedly, was that these writers never pre-planned their novels: they simply sat down at their desks and embarked on the great adventure of writing fiction.
+
+ Two points. First, people who have become rich and famous, often after many years of struggle, do not normally reveal all their trade secrets, not even to a sycophantic, starry-eyed interviewer from a prestigious literary journal; so we should take these revelations of 'working methods' with a shovelful of salt. And second, common sense surely tells us that writing a novel without having a clear concept of its overall shape, at the start, is a recipe for disaster. It compares with a surgeon going into an operating theatre without knowing whether he is going to remove an appendix or perform a lobotomy; and who knows, if he gets really inspired, he may amputate the patient's left leg.
+
+ And yet, and yet.... As you and I know full well, young and ambitious writers are trusting souls, a trifle simple-minded pretty much by definition; and if a working method is good enough for Andr&#381; Gide and William Faulkner (or whoever), then by golly it's good enough for them - common sense notwithstanding. Thus is futility piled upon futility.
+
+ No. We need to look a little harder at the concept of the swimmer's body to discern anything truly useful to the art of writing.
+
+ If it is true that champion swimmers become champions mainly because of their basic physique, what is the writer's equivalent?
+
+ The answer, surely, is a capacity to write effective prose; a writer needs to be able to use the English language to full effect.
+
+ In England, which is the source and home of the English language, the ability to write even halfway decent prose is today a rare quality. The cause, as you doubtless realise, lies in the failure of English education, a topic too big to go into here. Suffice it for our purposes to note that hardly anyone under the age of fifty has been taught to spell and punctuate properly, much less polish their prose style.
+
+ A powerful command of the English language does not necessarily require a massively high IQ: Muhammad Ali had the former but not the latter. Neither does it require a particularly long or arduous training; but it is a training which is best given on a one-toone basis (I used to teach English to small boys myself), and in recent years such personal instruction has seldom been available.
+
+ It is doubtless the case that many slush-pile readers use the 'basic command of English' test as a preliminary filter; they discard immediately those books which may be described as semi-literate. I do so myself, as a matter of fact. In my capacity as owner and operator of a small press (Kingsfield Publications), I am regularly sent manuscripts by hopeful writers. (This despite a notice on the firm's web site telling them that such submissions are a waste of time.)
+
+ Sometimes the submissions come on paper, and sometimes as email attachments. Either way, if I look at them at all, my inclination to read more than a few lines is heavily influenced by their grasp of, say, punctuation. A recent manuscript came with quite a sensible covering letter, but the first page of the accompanying text revealed a complete inability to punctuate dialogue in the orthodox manner. It is perfectly true that some writers adopt their own method of punctuating speech: James Joyce is an example. But in this case I was convinced that the oddities were the result of incompetence. Enough. I read no more.
+
+ It is not, in my view, unreasonable to use this crude 'basic command of English' filter to reduce the size of the pile of manuscripts. However, it is a mistake to assume that this test is reliable.
+
+ I once found a manuscript which was more or less functionally illiterate - being spattered with hundreds of elementary errors - but which, whenread aloud, revealed that the author had a perfectly clear story to tell in her own distinctive voice. Unfortunately, the economics of having such a text moulded into shape by a professional editor usually preclude any further consideration of the manuscript - unless the publisher is prepared to gamble that it's a black swan.
+
+ In most cases, it is evidently at the later stages of the slush-pile selection process that mistakes are made, rather than at the stage where the basic command of English test is applied.
+
+ In statistics, you commit a Type 1 error if you reject the hypothesis when it is true; and a Type 2 error if you confirm the hypothesis when it is untrue. As we have already seen, the slush-pile procedure produces both these types of errors: not all the time, but frequently. Books which turn out to be excellent (either by literary or commercial criteria), are rejected; and some books are selected which later prove to be duds.
+
+ The selection of duds does not matter in and of itself. Most books are duds, in the sense that they do not become black swans. They are capable, competent, even entertaining pieces of work - but they do not generate massive enthusiasm, either in the publisher or in the book's readers. Such duds are harmless and may even be beneficial in that they give the authors practice in the difficult art of learning to write; they invite some critical attention and slowly build a reputation; and with sensible costing they may even do rather better than break even.
+
+ Where the selection of duds does do great damage is in those cases where the wrong book is selected for the 'full treatment'. Giving a book the works these days involves paying a big advance (which is used to generate publicity and arouse interest), and providing a large publicity budget.
+
+ If both of these big-money sums (big, at any rate, by publishing standards) are committed, and the book fails, damage has been done in several quarters. The publishing firm's profits suffer; its reputation is damaged; the author's confidence may be shattered; and booksellers will be disgruntled.
+
+ In the past, publishers were often able to keep the gory details of such failures more or less secret within the firm. But with the advent of computer-based point-of-sale databases, which record actual sales in the high-street shops, and which are accessible to almost everyone in the trade (on payment of substantial subscriptions), the truth will out.
+
+ In the 2002 edition of the Writer's Handbook, Barry Turner gave a couple of examples. Author A was paid £300,000 for two novels. The first came out in 2001 and sold less than 4,000 copies. Author B was paid £250,000 for one book, by a different publisher, and this one generated sales of 1,500 copies. Private Eyerecently identified a similar case. An author with an established but modest track record was paid £500,000 for her new book. The hardback (published in 2003) sold just over 2,000 copies, and the paperback (2004) managed 10,000.
+
+ Similar errors are made on a smaller scale. With my publisher's hat on, I once sold a book to a major UK publisher for £15,000. Five years later, when the rights reverted, there was still an unearned balance of £11,000 on the royalty statement.
+
+ Some of the deals that are announced in UK publishing are so bizarre that in any other industry one would assume that money was changing hands in brown-paper bags in various Tesco car parks. In this industry, however, we can say with absolute confidence that the participants are more likely to be financially clueless than corrupt.
+
+ Casanova: a case history
+
+ You will recall that Casanova's memoirs reveal that he continually escaped from tight corners, where his testicles or his life itself were endangered. We also noted that we would be unwise to conclude from these events that Casanova was exceptionally talented or clever. On the contrary, it was simply the random flow of events, over which he had no influence, which ultimately determined whether he lived or died.
+
+ In publishing, it is easy to mistake the effects of chance for those of unusual talent. Most readers will have had the experience of seeing a book heavily recommended in the press. A full-page glossy advert in the Bookselleror Publishers Weeklyannounces 'a very special publishing event'. The book cover features endorsements from famous names (who by a curious coincidence are published by the same firm). And yet, when you actually come to read the book, you find yourself puzzled to understand what all the fuss was about. You sit there and ask yourself what you are missing.
+
+ The answer is that you are missing nothing, because there is nothing there to miss. You are expecting the book to live up to its hype; you seek evidence that it is quite exceptional. But the truth is that what you have in your hand is simply a perfectly workmanlike novel which, through the workings of randomness, has cleared successive selection hurdles and has survived to be given the benefit of a huge publicity budget. And that's all. How reliable and valid are the slush-pile results? In statistics, two important concepts are reliability and validity.
+
+ A test, such as a questionnaire about people's attitudes to a given topic, is said to be reliable if it yields the same results when completed by the same person at two different times (always assuming that the individual's attitudes have not changed in the meantime). And validity can be defined as the extent to which an instrument actually measures what the researcher wishes it to measure (and not something else).
+
+ The slush-pile analysis, which takes place every day in hundreds of offices of agents and publishers all over the world, is clearly not conducted on a rigorous and scientific basis. Nevertheless, it will be useful, I believe, to consider to what extent the analysis is reliable and valid.
+
+ Let us remind ourselves of what it is that the slush-pile readers wish to 'measure'. What they wish to do is to find those books which are going to be of most benefit to the firm in question, whether it be publisher or agent: the books which are going to make money and/or bring literary prestige in their wake.
+
+ In today's book trade, it is certainly the case that publishers and booksellers alike are increasingly dependent upon a constant flow of big sellers. These can to some extent be manufactured, but the real prize is the black swan: the book by an unknown which will turn out to transform the revenues of all those stakeholders who get so much as a sniff of it.
+
+ In theory, slush-pile readers should develop, or be instructed to apply, a series of criteria (tests) which would be reliable, in the sense that if the same book was subjected to the test some months apart (after the first reading had been forgotten), it would receive the same rating on the second reading as on the first. And secondly, the test criteria should be valid, in the sense that they would lead to the infallible detection of any and all black swans.
+
+ Now.... There are not many things in the world of books which can be said to be certain; but one thing that I feel reasonably certain of (on the basis of the evidence quoted above, plus much else in a similar vein) is that the slush-pile procedure is pitifully unreliable, and it is not remotely valid. In fact, so utterly inadequate is the procedure (as generally applied) that it is tempting to say that you can almost guarantee that a black swan will be overlooked. A general conclusion I submit that we can now draw up a general conclusion for Part 3 of this essay. And the general conclusion is this: The selection of books from the slush pile, provided the books reach a certain basic standard of professionalism, is essentially random.
+
+ Please note: This does not mean that every writer whose book is chosen for publication is a very average talent who just got lucky, and that every unchosen writer is simply unlucky. Chance favours the prepared, and writers can certainly help themselves: they can make sure that their spelling and punctuation are perfect; that the manuscript is crisp and clean; that the story is not hackneyed and stale; and so forth. And agents/publishers can employ mature, intelligent and well-read readers, whose judgements are certain to be superior to those of recent graduates in Eng. Lit.
+
+ What our conclusion does mean is that the book-selection process is much more random than we think; and that unless you have objective evidence as to why one book was preferred to another, then the workings of randomness are the most likely explanation.
+
+ We have seen that the experiment with rats was flawed, and it failed to identify the 'strongest' rats. A similar set of flaws have been shown to be present in the slush-pile procedure. The procedure is unreliable in that ten publishers may reject a book, only for the eleventh to accept it and have a success with it. And the procedure is invalid in that, time after time, it fails to identify books which prove to be strong when eventually presented to the market.
+
+ Prior to the emergence of a black swan, there is no known test which will identify it as a superior entity. The book has its own unique characteristics, of course, but we cannot pin down beforehand what it is that will make it a huge success. If Barry Cunningham, of Bloomsbury, had been on holiday when Harry Potter first came into the office, and if the book had been rejected by an 'intern' (whatever they), Harry would have for ever remained, as the author herself pointed out, in his cupboard under the stairs.
+
+ Furthermore, in looking back on the black swan, after the event, we would be foolish to attribute its success to factors which it clearly shares not only with other books which were not huge hits, but also with other books which never even made it out of the slush pile.
+
+ In seeking explanations for black swans in publishing, it would be wise to accept that there may be no specific reasons - not even a spectrum of possible explanations. It may be that the most we can say about a black swan is that it sold a lot of copies because a lot of people liked it: a statement which is both tautological and unenlightening.
+
+ Naturally, the publishing powers that be, and many others who have an emotional or financial stake in publishing, will resist this statement that randomness lies at the heart of the book-selection process. It offends their sense of their own importance; and it is always tempting to indulge in what psychologists refer to as as hindsight bias.
+
+ 'I always knew that book was a winner, Daphne' is a sentence which will be pronounced in many quarters when 'that book' proves to be a black swan. Conversely, 'I never had any faith in it, Daphne, but the acquisitions committee just wouldn't listen' will be heard loud in the land when the unearned million-pound advance has to be set against profits at the year end.
+
+ Writers who are published, rather than rejected, will likewise resist my general conclusion; this is true whether they prove to be wildly successful or not. God knows, they have laboured hard enough, often for years, in the face of massive indifference, so it is understandable that they should attribute any kind of success to the innate qualities of their work; they will assume, whenever they make even a modest breakthrough, that it is all down to their natural superiority to the rest of the herd.
+
+ The opinion of such writers is reinforced when the reviews come out. ('Brilliant', said The Times.) It is easy to forget that, except for the big established names, reviewers do not bother to write about a book at all unless they can say something encouraging; space is too limited. This is survivorship bias again: the reviewers who read the book and hated it are lost to us, just like the dead rats.
+
+ The axe man cometh
+
+ In the course of time, after a publisher has put out two or three books by a writer, that writer is likely to be given the axe. There is nothing personal in this; it's just the nature of today's business. If a writer has been given two or three chances to find readers and to enthuse the critics, and the sales figures just aren't there, and the reviews aren't there either, then it's Dear Jane time; and usually via an email to the author's agent rather than during lunch at the Groucho (which is what it was when everyone had such high hopes).
+
+ But even the writer's ultimate catastrophe, in the shape of a promising career terminated by an inadequate bottom line, even that will be ascribed by the victim to conscious and deliberate decision rather than to the effects of randomness. 'The bastards didn't give me the publicity budget they promised.' Or 'They got taken over by some South African fascists and my face didn't fit.'
+
+ For a writer who has been dumped, it is a particularly bitter blow to discover that all that effort was futile. And the publisher isn't going to be particularly thrilled by a less than sparkling sales record either. Which is all the more reason for us now to try to learn some lessons, and to develop strategies which will improve the situation.
+
+ Part 4: Strategies for slush-pile selectors (agents and publishers)
+
+ Introduction
+
+ This essay has been written mainly to consider the problems relating to the writing and publishing of fiction; and that focus will be maintained in Parts 4 and 5.
+
+ Part 4 will look at the problems which agents (and publishers) face in finding suitable material, particularly material from as-yetunknown writers. But first let us step backwards and take a hard look at the question of whether there are any rational reasons for being involved in the fiction-publishing business in the first place.
+
+ General difficulties in thinking
+
+ In undertaking hard thinking of any kind we are handicapped by human nature. Taleb presents evidence that human beings are simply not wired for rational thought. Modern behavioural science has shown that our cognitive apparatus has considerably less influence over our actions than does our emotional machinery. Apparently there are good genetic reasons why this should be so: if we made all our decisions rationally they would take far too long. Taleb maintains, and I agree, that we should all be aware of this flaw in our thinking, in order to protect ourselves (as far as possible) from the essentially emotional nature of our decisions.
+
+ In few areas of life, I suggest, is this warning more apposite than in relation to writing and publishing.
+
+ Is publishing a sensible business?
+
+ We must remember throughout our consideration of the problems connected with the writing and selling of novels that publishing is first and foremost a business. Whether it is a sensible business is a different matter altogether. Like all businesses, publishing requires capital; and investors, sooner or later, will need to consider whether they are earning a decent return on their capital.
+
+ As far as the specific returns on investment in publishing are concerned, we are handicapped by incomplete data. But such data as we have suggest that publishing in general is not a good field for investors to enter. (See, for instance, Eric de Bellaigue's interesting collection of essays,British Book Publishing as a Business since the 1960s). At best, publishing seems likely to yield a lower return to investors than do many other industries. Within publishing, trade publishing is less profitable than the mundane areas of textbook and reference-book publishing; and within trade publishing, fiction is particularly demanding of cash and typically appears to provide lower yields than non-fiction. 'People who make money in literary publishing are rare,' says Carmen Callil.
+
+ Luke Johnson, currently Chairman of Channel 4, once owned a book publisher and found it 'a painful experience.' Generally, he said, publishing is a 'terrible business... a barely rational industry.' The cash-flow characteristics are unattractive. 'You ship finished volumes to booksellers who only accept them on a sale or return basis, and demand at least 55 per cent trade discount, and pay 120 days later.'
+
+ In America, the situation seems to be worse. Richard Curtis, a leading New York literary agent, says that the returnability of books is killing the business. 'The old system has become corrupt and dishonest.'
+
+ Prima facie, therefore, there is not much reason for investing in a company which publishes fiction. Why are big conglomerates involved in publishing? It is no accident, in my view, that today's most powerful publishers are subsidiaries of much larger companies, which have a broadbased involvement in other media, such as newspapers and television. Harper Collins, for example, is a big publisher but occupies barely a couple of pixels on News Corp's overall screen.
+
+ It seems reasonable to assume that the managers of major international companies are well aware of the relatively unsatisfactory rate of returns from trade publishing in general and fiction in particular. Parent companies' continued involvement in book publishing must therefore be seen as a long-odds bet. Inspired by the occasional black swan, investment in publishing is seen as a quirky and risky part of the overall portfolio: it may be regarded as something that's worth a punt, but don't hold your breath.
+
+ Here again we have some wonderfully fuzzy thinking. Fiction publishing and retailing are only rendered remotely profitable by the blockbusters; and blockbusters cannot infallibly be manufactured. So the business hinges upon black swans, which are random events. But what observers tend to forget is that random events do not occur at evenly spaced intervals; they occur at random intervals. Thus if Harper Collins has a black swan this year, it does not follow that it will be Random House's turn next year. Good ole HC may turn the same trick for ten years in a row. And if they do, of course, the HC editorial department will become legendary; but they won't deserve it.
+
+ If HC were to strike lucky in that way, for ten straight years, the not-so-lucky conglomerates might begin to wonder whether the game was worth the effort. Publishers might find that their parent company's patience and tolerance were not inexhaustible. Factors for individuals to consider If we assume that a major company has decided to remain involved in book publishing on the basis described above, it still remains for individuals to decide whether an involvement in the business is wise for them personally.
+
+ Surveys of remuneration packages in publishing tend to show that average salaries are low, when compared with other industries: pitifully low when compared with jobs in the financial sector. A survey by Bookcareers.com, in 2004, showed that the average salary in UK publishing firms was just under £24,000 a year, about 10 per cent below the national average. And this, mark you, in a business which is largely based in London. In the publishing industry at large, there are few jobs which pay in excess of £100,000 a year.
+
+ In order for an individual to build a career it will be necessary (on present evidence) for that person to change firms several times; this is unlikely to have an advantageous effect on pension rights.
+
+ The evidence therefore suggests that a career in book publishing is not attractive in terms of the rewards which are normally regarded as significant.
+
+ As for agents who specialise in fiction.... What can we say about career prospects for them?
+
+ Well, I have long maintained that being an agent is the toughest job in the business. If you happen to belong to a firm which was established a hundred years ago, and which controls the literary estates of some household names, then the job of making a decent living from 10 per cent or 15 per cent of writers' incomes becomes less formidable. But not much.
+
+ Hilary Rubinstein was reported as saying, in 1995, that work in a literary agency offered the participant 'a better life, albeit a less decent living.' Less decent, in this context, refers to publishing as the alternative.
+
+ Why does anyone work in publishing?
+
+ We have seen that there are few rational reasons for either investors or individuals to become involved in fiction publishing or in agency work. Anyone who joins a publisher or an agency is either too dim to have cottoned on to a few simple economic facts, or else has decided that they will sign up regardless; probably, in many cases, the former. Most individuals who do become involved in the book trade tend to drift in, I suspect, on the strength of a vague idea that they would like to work with books. And if they remain in, after the truth has belatedly dawned upon them, it is often because it is by then too late to do anything else.
+
+ It is a curious fact, which I noticed in my principal area of employment (education) before I noticed it in publishing, that people who work in a particular industry often know nothing about it. They have a job, and that is enough; they show no interest in understanding a larger picture. When Jason Epstein wrote his extraordinarily interesting Book Business, I read it as soon as it came out, and for the next year or so I made a point of asking everyone I met in the book world whether they had read it. I never found anyone who had. People who work in publishing seem to be far too busy to read anything; and they're certainly too busy to think.
+
+ I suggest that this lack of interest in the broader perspective is to no one's advantage.
+
+ How do we find the best books?
+
+ If we are involved in fiction publishing, for better or for worse, how then do we find the best books to publish?
+
+ Let us assume, optimistically, that a hypothetical publishing company, Clapham & Irons, has made a conscious and rational decision that it will enter (or remain in) fiction publishing. And let us assume that Clapham & Irons is staffed by dedicated and keen employees, who have joined the firm despite being bright enough to understand the limited career prospects that the industry offers. Such employees are naturally interested in finding the 'best' books to publish.
+
+ Definitions of 'best' will vary. But even if the firm has a preference for literary fiction, the term will imply the sale of large numbers of copies. One of the few universally agreed ideas in modern publishing is that publishers and booksellers alike depend for their survival upon a steady flow of big sellers - and I do mean big. So what are the sources of such books, and how can they be identified?
+
+ One well tried method of obtaining books which will sell is to steal an established author from another company. The usual method for doing this involves offering more money than the writer's present publisher is prepared to pay, and this calculation is clearly a risky one. We need go no further into it than that, but my view is that firms which pay silly money to established names and then run into trouble have no excuse.
+
+ Given that the ability to write effective prose (whether fiction or non-fiction) is a rare skill, publishers also tend to commission books, even novels, from those who have demonstrated, in related fields, that they have unusual writing ability: which means, mainly, journalists. Jilly Cooper and Penny Vincenzi were both journalists before they became successful novelists. So the commissioning of a novel from such recognised talent may well be an effective strategy. However, it is easy for all parties to misjudge the differences between fiction and non-fiction; and paying a substantial advance for a book which has yet to be written is sheer folly.
+
+ In my opinion, a better method than commissioning is to breed and develop talent within the house. In other words, a firm should find a promising writer before anyone else does, treat her well, invest in suitable publicity budgets, and build her reputation. This procedure used to be widely used: in the old days, once a writer was taken on by a firm she could expect to stay with it pretty much for life, and she would not be expected to succeed overnight. But nowadays writers are given much less time to deliver the goods. Indeed in many cases they are expected to hit the ground running. Quite how they will have acquired the necessary skills to do this is evidently beyond the understanding of those who make decisions in modern publishing.
+
+ This question of allowing a writer time to develop is in my view crucial. So far as I know, no modern trade publisher has yet followed the example of Antony Blond (with Simon Raven) whereby a writer is effectively put on the payroll and paid a monthly amount to produce fiction. And yet this seems to me to offer great advantages to both parties.
+
+ I suspect that the writing of fiction looks so easy, to the people who do nothing more than read it, that both embryo authors and publishers systematically underestimate the difficulty of the task. It fact, narrative technique is something that can only be mastered over a longish period of time and perhaps half a dozen books. A paid apprenticeship looks to me like a better investment than a huge lump sum paid for a book which a leading agent has managed to persuade six competing publishers is absolutely wonderful.
+
+ Another useful device, which appears to me to be underused, is ghosting. In today's market the ability to appear on TV chat shows and mix it with the likes of Richard and Judy is a key factor in building a bestseller. The use of a celebrity to give a brand name to a book, or series of books, is therefore a smart move. How to manage the slush pile: reactive procedures We now turn to the last of the established strategies for finding people who can generate the product without which a publishing business simply cannot function. It is the method which has traditionally proved to be remarkably inefficient, and it is, of course, searching through the slush pile.
+
+ The suggestions in this section will be couched in terms of procedures to be operated by agents, since the task of slush-pile reading has very largely been shifted in their direction; but the suggestions will apply equally well to any publishers who may still be reading unsolicited submissions.
+
+ We begin by considering reactive procedures: which means that we will look at the slush pile in its traditional form. Financing the slush-pile operation If the slush-pile procedure is not operated to an exceptionally high standard it is a waste of resources. If the best an agent can do is to employ (or exploit) as a reader some kid who is halfway through a degree course in media studies, then I suggest that the agent should not bother. In other words, if an agent can't read the slush pile herself then she should employ someone with enough experience to be a tolerably reliable judge. And that means that the agent must pay a decent hourly rate.
+
+ Skilled and experienced readers are inevitably going to cost serious money; and an agent's only source of such money is her income from published writers. Thus the cost of servicing an agent's slush pile is met partly by the agent herself (through money which she would otherwise take as salary) and partly by the writers in her stable.
+
+ Actually the position is worse than that. Most major publishers no longer accept unsolicited submissions, which are now sent almost entirely to agents. So publishers have saved money while agents have seen their costs increase. This is one of the reasons why agent's commissions, in many instances, have crept upwards from 10 per cent to 15 per cent.
+
+ All of this is unfair and unnecessary. The solution lies in the introduction of a system of fees.
+
+ In principle, agents can either charge publishers for doing the job of sorting out the publishable from the oh my god, or they can charge the as-yet-unpublished writers.
+
+ It seems unlikely, on the whole, that agents will be willing to propose charging publishers a fee, or that publishers would pay it if they were asked to. It follows, therefore, that the only method of financing the slush pile which is both fair and practicable is to charge a fee to those who submit unsolicited manuscripts.
+
+ To my knowledge, only one firm of any standing is at present charging fees for reading, and that is the Scott Meredith Agency in New York. The present owner of the agency, Arthur Klebanoff, says bluntly in his book The Agentthat 'agents typically get their clients by referral or by soliciting authors or celebrities. It is a rare agent who finds his opportunities from the slush pile.' He, at least, is not going to waste his resources on a procedure which is both costly and ineffective.
+
+ What is a realistic reading fee? Well, if you submit a 300-page manuscript to the UK-based Literary Consultancy, for example (and this is a body supported by the Arts Council, no less), it will cost you some £450. In return the Consultancy will give you a detailed report on the manuscript's strengths and weaknesses, one which has been prepared by an experienced professional. In the past there has been considerable resistance to this idea of agents charging a reading fee, for a variety of reasons: these include 'a desire to be fair to people' and a fear that fees will alienate some good writers. At present the code of practice of the UK Association of Authors' Agents discourages such charges.
+
+ Well, sorry, but this is all nonsense. One of the major problems in publishing and agency work is that the people who do it tend to be too damn nice for their own good (or anyone else's). Book people are awfully sensitive themselves, and they just don't like to hurt anyone's feelings. But publishing is a business, and it needs to be conducted in a businesslike manner: that manner should be polite and friendly, but it should be firm, and it should be based on clear thinking, not sentimentality.
+
+ Writers, as we shall see in Part 5, tend to be quite exceptionally clever people who are at one and the same time extremely dim. If they weren't dim they wouldn't be writing a novel which they are now trying (mostly in vain) to get people interested in. Agents are under no obligation to give these people free services. Quite the reverse: they are under an obligation to see that their existing clients don't pay for things which are not their responsibility.
+
+ Neither is there any need for agents to fear that, if they start charging a realistic fee for reading a novel, the supply of new talent will dry up. There is no risk of that. There are plenty of people willing to pay several thousand pounds to see their book in print, so asking them to invest a small proportion of that sum in order to be considered as a possible client by an agent is not going to be a major deterrent. In any case, various blow-softening arrangements are obviously possible: an agent can offer to waive the fee if a client is taken on or a contract offered; et cetera.
+
+ Providing clear guidelines for submissions
+
+ To protect its reputation, any organisation which is going to charge a fee for reading an unsolicited manuscript needs to set up some tight guidelines for submissions, so that writers do not waste their money. These guidelines ought to include, as a minimum: a list of genres which will be considered; the lowest and highest acceptable word lengths; and layout requirements.
+
+ Personally I would go a lot further and require those submitting a manuscript to provide a biography, evidence of previously published work, an outline of thenext novel that is planned, and a description of what sort of career as a writer they envisage for themselves. The more detail that is demanded the better, because it will concentrate the minds of a group of people who tend to be hopelessly vague and woolly.
+
+ At this point, anyone who is familiar with my other diatribes on publishing will be asking a question. Just a minute, they will say. How does all this charging a fee business equate with your frequently stated view that the treatment of writers by agents and publishers borders upon the scandalous? Are you not being somewhat inconsistent by recommending that agents give writers so many hurdles to overcome, and charge them a fee to boot?
+
+ My answer to that accusation is that there is nothing shabby or disgraceful in telling writers the truth and acquainting them with the painful facts of publishing life. (It is something that I try to do on an almost daily basis in my blog.) On the contrary, by setting out the plain facts you are doing wannabe writers a profound favour.
+
+ If an agent says, point blank, that in the previous year she considered 2,000 new novels and agreed to represent just one of the authors, then that is useful information to those who are thinking of making a submission.
+
+ If the agent tells the writer, unambiguously, that a £300 (or whatever) reading fee does not mean that every word of a book will necessarily be read - indeed it may mean that no more than the traditional two pages will be read - there is nothing shabby in that either. The writer can accept the deal or not.
+
+ What the £300 fee should mean is that a competent reader will be employed - for the benefit of the agent, please note, not for the benefit of the writers - and that the reader so funded will have sufficient time to give a proper appraisal of those books which appear to justify a proper appraisal. Books which are clearly semiliterate will be identified as such and will be given short shrift.
+
+ Neither do I believe that, in return for the fee, a writer is entitled to a critique of the work submitted; the readers' reports are provided for the agent's benefit, not the writer's. (A manuscript submitted to a reading agency set up specifically for the benefit of writers, e.g, the Literary Consultancy, is a different matter; in that case writers certainly would be entitled to a lengthy report for their money.)
+
+ There is, as I say, nothing shabby or disgraceful about an agent who tells writers the painful facts of publishing life. But the point is that they should betold -up front, before they decide to send in their cheque. This is a tough world, and it is tougher for writers than for most people, so it is to the advantage of all the na&#8226;ve hopefuls that they should have their naivety kicked out of them at as early a stage as possible. How to manage the slush pile: proactive procedures As before, this section is written from the perspective of the literary agent but much of what is said is equally applicable to publishers.
+
+ It is certainly arguable that, for agencies which are already well established, the traditional slush-pile procedure has had its day - even if amended as suggested above. There are already some bigger agents who will not read unsolicited submissions: ICM in New York being an example. I for one would not necessarily disagree with anyone who said that sitting and waiting for a black swan to come floating though the door is a ridiculous strategy. And there are certainly alternatives.
+
+ In the first place, big agents can in practice draw clients from a host of smaller firms - both publishers and agents. It is a simple fact of life, though one that is bitterly resented within those smaller firms, that a writer who has had some modest success will either approach a larger firm herself or will be receptive to an approach if it is initiated by the larger company. (Remember Arthur Klebanoff's view, quoted above.)
+
+ This is all very painful and agonising, and may contravene certain written or unwritten 'laws', but in the final analysis writers need to decide why they are in the business at all. Are they putting in all that labour and time just to meet some nice people and make friends? Or are they anxious to build literary reputation and/or make lots of money? Either way, the big agents (and publishers) carry much more clout than the small ones, and they are the people to be with.
+
+ It is therefore possible for a powerful agent to ignore unsolicited submissions entirely, and to sit back and wait for those who have had some small success to use that success as a calling card.
+
+ But there are other, more proactive, routes to the recruitment of talent by an agent.
+
+ The last ten years have seen remarkable changes in printing technology and internet communications. What these developments mean is that it is now far easier for writers to get some exposuresomewhere - even if it is only on their own blog. But the exposure may be a little better than a blog: it may be on some sort of selectively edited ezine or web site. Or the writer can publish her own work through one of the many firms that now offer that service. Instead of paying a well qualified reader to go through a mountain of manuscripts - even if accompanied by cheques - it might be more effective to pay this reader to go out and look for writers who have produced something which is already out there in the marketplace in one form or another.
+
+ I also think that, if I was an agent, I would be much more inclined to consider seriously a writer who had gone to the trouble and expense of having a book printed (albeit through some form of print-on-demand vanity press) than a writer who simply had a pile of paper under her arm.
+
+ For one thing it is psychologically easier to judge a book that actually looks like a book.
+
+ Prices paid
+
+ There is evidence to suggest that, overall, the proportion of publishers' income that is paid to writers has diminished over the period since conglomeration began in earnest, and since the abolition of the Net Book Agreement. However, agents will naturally press for their clients to be paid substantial advances, and publishers will resist.
+
+ As far as publishers are concerned, modern strategies for book selection are so painfully and obviously fallible that it is tempting to suggest that some lateral thinking ought to be applied. It would be interesting, for instance, if one of the major houses introduced a rule that, in the case of a previously unpublished and untested author, they would never bid for rights in competition with another publisher, and would never pay an advance greater than a modest sum. In this way they would at least avoid some of the Type 2 errors described earlier - in other words, publishers would not end up paying silly money for writers without an established reputation. The results of such an experiment might be illuminating one way or the other.
+
+ The above paragraph, by the way, is written in a week when a leading publisher announced an advance payment of £500,000 to a previously unpublished author. This was after an allegedly 'frenzied auction'. Yes, well, I dare say that if you assemble five or six desperate and over-excited people, who are bidding with someone else's money, things may get a bit frenzied. Whether the bidders are acting sensibly is open to question.
+
+ Rejection letters
+
+ My view is that, whether rejection letters are sent by agent or publisher, they should say nothing. And especially not Sorry.
+
+ Any advice whatever, given to a writer, will result in the manuscript coming back to you six months later, with the advice followed to the letter; probably to the detriment of the book. And any encouragement, however minor, will be treated as a justification for sending you everything else that the writer has ever written.
+
+ If that's what you want, fine. But I don't believe it is.
+
+ Making decisions
+
+ Finally in Part 4, a word about making decisions.
+
+ Taleb tells us that, before beginning a meeting with his colleagues, he always issues a standard reminder, just as one might say grace before a meal. Taleb asks his colleagues to remember that, collectively, he and they are a bunch of idiots who know nothing and are prone to make mistakes; but they do happen to be endowed with the rare quality of knowing what they are.
+
+ I recommend this procedure for adoption whenever a decision has to be made on the publishing of fiction.
+
+ Part 5: Strategies for slush-pile contributors (writers)
+
+ Should writers be in this business at all?
+
+ Part 5 will broadly follow the pattern of Part 4, and so we begin by asking ourselves whether writers - specifically novelists - are wise to be in the publishing business at all.
+
+ The evidence assembled in Part 4 demonstrates that publishing is not a business that anyone in full possession of the facts should go into unless there are special circumstances: such as the possession of a private income, or an overriding desire to be involved with books. I am not going to repeat the argument here. What is instructive, I suggest, is to compare writing with other potential careers, even those of a modest kind which might be thought to be below the dignity of someone capable of writing a novel.
+
+ Consider, if you will, a possible career in the motor trade for a young man; and, for a young woman, a career in hairdressing. For either of these two forms of employment, it is easy to obtain suitable training at modest cost. The job can be done by anyone with average intelligence. There are thousands of firms throughout the UK which offer job opportunities. And in order to remain in employment all one has to do is turn up on time and perform to a minimally demanding standard. Given hard work and a little initiative, you could end up with your own business and do rather well. There is no winner-take-all mechanism in the motor trade or hairdressing. Randomness will undeniably play a part in a career in either field, but that role will normally be a minor one.
+
+ None of these happy circumstances apply to a young person who wishes to earn a living as a novelist. For a novelist it is not easy to obtain adequate training (I am not impressed by what I have seen of degrees in creative writing). The job of being a writer requires exceptional ability and aptitude, plus years of practice. Job opportunities are limited and the competition is huge. Randomness is the dominant factor in determining any degree of success which may be enjoyed. Even if some form of contract is obtained, it is unlikely to provide enough money to live on, and there is no guarantee of continuity of employment, however committed you may be.
+
+ In other words, there are no sensible reasons, as has been demonstrated over and over again in this essay, for seeking to become a professional novelist (or even an amateur one, of which more will be said later). However, these are personal decisions and they must be made by individuals. And individuals who have read thus far in this essay will be aware that any decision to try to become a professional writer cannot, by definition, be rational; it must be emotional, which means that it is dangerous.
+
+ Let us consider the dangers.
+
+ If there is one thing that can almost be guaranteed about being a writer, attempting to work through traditional book-publishing channels, it is that the process will involve a great many negative emotions: anger; frustration; bitterness; a sense of injustice; jealousy; depression; despair.
+
+ It is obvious just from the names of these powerful emotions that they are undesirable. But just how undesirable and damaging they are is often underestimated. A finished novel is the product of several hundred hours of hard work, and the physical and psychological consequences of having it rejected, over and over again, are far from negligible.
+
+ Taleb points out to us that scientists have examined the physical impact of the negative emotions which are aroused by situations such as rejection. He refers us to Sapolsky, whose work reveals that prolonged stress, such as that experienced by ambitious writers trying to juggle too many balls at once, causes or intensifies a range of physical and mental afflictions, including depression, ulcers, colitis, heart disease, and more. The glucocorticoids released at times of stress tend to hamper the formation of new memory and brain plasticity.
+
+ Typically, highly negative experiences have an effect on the mind and body which exceeds (by an estimated magnitude of 2.5 times) the positive effect of a good experience. So if, after fifteen submissions, a writer finally persuades an agent to represent her, which is a positive emotional event (of sorts), then our writer is still likely to be left in emotional deficit.
+
+ The very process of writing a novel is likely to have a far-reaching impact on several areas of the writer's life. The girlfriend or boyfriend may not be enthusiastic; your employer may wonder why you are so anxious to leave at 5.00 p.m.; and your bank balance may be depleted by various expenses. When achieving even the most minimal success takes much longer than you hoped - and it will - you will be subjected to well-meaning but painful interrogations by your family and friends.
+
+ But there are worse things than being rejected. The worst thing that can happen to a writer is for her to become the author of a black swan before she is old enough, and experienced enough, to understand how she came to achieve that success.
+
+ The creator of a black swan is placed under enormous pressure to repeat the triumph. The pressure comes from her publisher, from the critics, from readers, booksellers, family, friends, spouse, children, and half a dozen other sources. And our writer sits at her desk and the paper remains blank.
+
+ In its most extreme form this pressure can prove fatal. In 1974 John Leggett wrote a book about Ross Lockridge and Tom Heggen (Ross and Tom). In post-war America, both these men had huge successes with their first books. They became rich and famous. But neither man could figure out what to do next; they became depressed; they committed suicide.
+
+ Stoicism and dignity in the face of randomness
+
+ Taleb tells us that, in the ancient world, the stoics' prescription for peace of mind was to do what one can to control one's destiny; for the only thing that Madame Randomness does not control is your behaviour. In the end, however, randomness will have the last word; and therefore the sole solution left to us is dignity.
+
+ What this means for writers is that it would be wise not to degrade yourself with empty hopes; neither is it dignified to whine when a publisher drops you after two books, and your agent refuses to return your calls. And perhaps the most dignified choice of all, for a writer, is to decline to participate in a circus where so much is determined by chance.
+
+ The whole business of submitting yourself to the slush-pile procedure is likely to be both painful and damaging; and it is more damaging, frankly, for those who understand how random it is than for divine innocents, who at least retain the delusion that the system is administered by readers whose judgements are reliable and valid.
+
+ How to proceed, if you really must
+
+ The evidence so far assembled in this essay surely suggests that writing a novel, with a view to getting it published through the mainstream publishing system, is a foolish thing to do. But we all do foolish things, some of us in full awareness of the consequences. (I once had a friend who decided that, despite the risks, smoking cigarettes was a sensible course for him, because it calmed his nerves; he died of cancer in his early fifties.) So, despite all the drawbacks and disadvantages of trying to launch a career as a writer, some will persist in trying; and if you really must go down this ill-advised route, you should at least equip yourself with a good map.
+
+ The first thing to do, and the easiest, is to cure your chronic ignorance of the facts of publishing life. Those of us who write may be fools; but at least we should be well-informed fools. This state of affairs can be achieved by reading the trade papers for a couple of years, and by reading some of the books mentioned in the references section of this essay.
+
+ Having done that - and it cannot, unfortunately, be done overnight - the next step is to clarify your goals. It is unlikely, on the whole, even with Madame Randomness on your side, that you are going to be able to achieve fame, literary reputation, and lots of money, all at the same time. There are exceptions, of course (e.g. Hemingway), and one of the most frequent errors on the part of writers is to assume that they themselves will be one of those rare exceptions. (If you want to know why this is an error, consider this: when we get into a car to go to the supermarket, we do not, generally speaking, assume that we are going to be one of those rare people who get killed in an accident.) So you need to decide, as precisely as possible, what it is that you hope to achieve as a writer; and, at the risk of mentioning it too often, I have to say that my book The Truth about Writing will be helpful in this regard.
+
+ Having sorted out your goals, and having armed yourself with a good working knowledge of how the business actually operates, you are then in a position to formulate a career plan. Most 'business plans' are a form of fiction anyway, and this one is likely to be even more divorced from reality than most. But it will do no harm if you set out on a piece of paper what you plan to do, over a period of say five years, and with what result. With a bit of luck you will see immediately how unrealistic such plans are, and save yourself a great deal of trouble.
+
+ How to find an agent/publisher
+
+ No writer can hope to enjoy any sort of serious career unless she is published by one of the major firms. And so the problem, assuming you have written a novel, is how to persuade one of those firms to publish it.
+
+ As we know, the big publishers have abandoned the slush pile; some of the bigger agents have either followed suit or will do so shortly. There remain, however, a number of reputable literary agencies which are still willing to consider unsolicited submissions.
+
+ There are good ways and bad ways to approach these people, and if you seek advice on how to do it, read (agent) Carole Blake's book From Pitch to Publication. Some commentators on the publishing scene maintain that before long writers will be obliged, perforce, to approach literary agents via an intermediate fee-charging service such as the Literary Consultancy - an organisation which has already been mentioned.
+
+ The Literary Consultancy will arrange to have your manuscript read by a professional. More to the point, if your work is judged to be of a high enough standard, the Consultancy will then recommend the book to one or other of the literary agencies with whom it has links. The present referral rate is reportedly 1 out of every 20 manuscripts read. I find this figure surprisingly high, but then perhaps the Literary Consultancy attracts an unusually competent class of writer; and besides, referral to an agency probably does no more than indicate to the agency that reading the manuscript may not be a complete waste of time.
+
+ There are numerous other 'reading agencies' which charge a fee for assessing your manuscript. These vary from the entirely honourable to the totally fraudulent, whose sole purpose is to part fools from their money.
+
+ A possible way forward
+
+ So far, this essay has not done much to encourage the view that writing novels is a productive use of one's time. However, thoughtful and informed readers may well be ahead of me in realising that, in the first decade of the twenty-first century, there is another set of strategies which could be pursued by those afflicted with the writing bug. These strategies require a clear head, which alone is a requirement that may put them beyond the reach of most, but I want to say a word about them here.
+
+ Let us suppose that a wildly ambitious young writer, full of ideas for wonderful novels, has prepared herself for a writing career, as indicated above. Such a person, if possessed of the power to think clearly, can hardly fail to be aware that the idea of becoming a full-time professional writer is a chimera, achievable only through the improbable workings of randomness. But this same young writer might recognise that there is a much more workable scheme of things.
+
+ Suppose (she says to herself) I acknowledge that I am never going to be another A.S. Byatt or Jilly Cooper (according to taste), but that I nevertheless decide to go ahead with writing novels as a spare-time occupation. There are, after all, some eccentric individuals who spend hundreds of hours making a scale model of a steam railway engine or a nineteenth-century sailing ship. Such people undertake these mammoth tasks, occupying several hundred hours, without any expectation of becoming famous or rich. Why should I not approach novel writing in the same spirit?
+
+ To which the answer is, No reason at all. Except that it requires quite exceptional powers of rationality, and the ability to quell, for ever, even the tiniest hope that publication (in the traditional sense), fame, glittering prizes, and untold wealth will follow. I have never met anyone capable of this, but such a paragon may exist.
+
+ Yes, it is possible for an individual to work in this way. And when the novel is finished it can be put on display, in just the same way that a model steam engine might be put on display. The novel can be 'exhibited' on the internet. It can be printed up in book form and given away, or even sold - provided that the writer does not expect to sell many copies.
+
+ There are some observers who see a bright future for what is now called 'disintermediation' - the process whereby texts are delivered from author to reader (like this essay, in fact) without the need for a publisher or a bookseller in the middle. In principle, there is no reason at all why the quality of work distributed in this way should not equal, or even exceed, the quality of much formally published work.
+
+ The pro-am option
+
+ Demos, an independent UK think tank, recently published a report on the 'pro-am phenomenon'. A pro-am is someone who works in a particular field as an amateur, but who nevertheless works to professional standards. The pro-am may make some income from a given activity, but it will not be the individual's sole source of income. The Demos report has shown that pro-ams are today making significant contributions in a number of fields, as varied as astronomy, theatre, and open-source software.
+
+ Those for whom writing is seen as a means of establishing their identity are unlikely to be satisfied with this strategy. But, for those who already know who they are, it is certainly an option; and it is one which can be exercised at any time, for example after retirement.
+
+ The pro-am approach is in fact the way in which I myself have operated over the last few years. My first novel was published in 1963, and over the next twenty-odd years I had five other novels published by firms in the UK, USA, France, and Denmark. In the 1990s, after a gap of some years, I was in a position to start writing fiction again; but, although I was represented by a leading agent, I discovered, unsurprisingly, that modern publishers were not interested. My solution was to start my own small press, Kingsfield Publications, which I use chiefly as a vehicle for my own work; the books are published under various pen-names according to their character.
+
+ As a result of my long experience of writing and publishing, I am in a position to ensure that I can write, design, and oversee the printing of trade paperbacks to a fully professional standard. Kingsfield Publications succeeds in selling a limited number of copies of each book, chiefly to the UK library trade. Because of the low set-up cost of modern print-on-demand technology, most books generate a modest profit. I know that the books are read, because I receive income from the public lending right scheme.
+
+ At present, it is a fact of life that pro-am novels produced in this way cannot provide a writer with even a modest living. Neither will they attract reviews in major newspapers, so it is difficult to build a reputation.
+
+ However, there are signs that this situation may change. A number of observers have begun to talk about the long tail, by which is meant that vast body of work which exists behind what might be called the short head.
+
+ In publishing, the short head is the blockbuster world of the big publishers and the big retailers. But there is already a long tail, in the form of the backlists of orthodox publishers; and an even longer tail, in the form of ebook and print-on-demand reprints of longforgotten masterpieces and even pulp. This long tail will almost certainly grow larger as individual writers become weary of trying to break into the mainstream and begin to offer their work through less orthodox channels.
+
+ Some observers believe that the long tail will eventually constitute a larger part of the market than the short head (if it doesn't do so already). And the readers, bless their hearts, are beginning to realise that finding something to read is no longer a matter of going down to the nearest W.H. Smith and seeing what is piled up near the door. They are beginning to learn that finding a 'good book' requires a little work, and the internet is the obvious place to start.
+
+ The theory is - and it seems eminently credible to me - that users will increasingly recognise that the internet provides a vastly increased pool of choice; and the search engines will allow them to explore their own tastes in ways hitherto not available.
+
+ Individuals with access to the internet, whether their interest is in music, videos, or books, are not limited to the current bestseller list which is being plugged by the big retailers.
+
+ What is more, they may discover, as they explore the various niches, that they actuallyprefer what is available in some obscure corners of the web to what is effectively forced upon them by the blockbuster/winner-take-all conglomerates.
+
+ It is forecast, by a certain number of wishful thinkers, that the long-tail effect will lead to the disappearance of winner-take-all dynamics. It is said, for instance, that the big TV networks will close down. I seriously doubt that. The big TV networks, and the big publishers, will remain big. But they will suffer reductions - reductions in the number of customers and the size of their profits.
+
+ As and when this situation develops further, it will be possible for many pro-am writers to find a small, but appreciative, and possibly passionate, audience for their work. They are unlikely to grow rich or to become famous in the old-fashioned sense; but they may supplement their income to a useful degree, and they will be known, worldwide, to those who share a particular set of tastes. The rewards of independence The rewards of this new strategy, though limited, should not be underestimated. Perhaps the most important of them is that the pro-am approach allows writers to write exactly what they want, when they want, in whatever form they want. These are rare privileges, unknown to those who play the corporate game.
+
+ In short, the pro-am writer seems to me to have the best of all possible worlds -subject to a couple of caveats. The pro-am has to be mature enough to be genuinely satisfied with the rewards of that status. (Daily meditation on the so-called 'rewards' of the corporate alternative should help.) And she has to be calm enough to be unfrustrated by the limitations of working on time-consuming projects in her all too finite amounts of spare time.
+
+ At present, many of those who write blogs and publish their own books live in the same over-hopeful frame of mind as those young ladies who, in the 1950s, used to work in Hollywood drug stores, in the expectation that at any moment a big-time producer would walk in and pick them to star in his next movie. In other words, they live in a dream world.
+
+ All such dreams should, in my opinion, be abandoned.
+
+ Let us suppose, just for the sake of argument, that some bigtime editor reads a self-published novel and decides to offer the writer a two-book contract on the strength of it. So what?
+
+ If the publisher is exceptionally rash (and we have evidence that some of them are), then a large sum of money may be involved; in that case it would make sense to take the advance and run. But in the average case, the advance offered is likely to be the usual pittance; the book will be given the usual minimum support; and after two or three such books, which fail to generate fire-storms of enthusiasm, the writer will be dropped.
+
+ Is that experience worth all the accompanying hassle? I suspect not. In the twenty-first century, therefore, the really smart writers - the ones who have mastered their skills, who learnt to understand the publishing business, and who value their sanity - they are not going to succumb to these blandishments. The mature and confident writer will recognise that she does not need to have her work validated by some all-too-fallible editor. And so, when our emancipated writer does receive an offer from such a source, she will smile politely, and say Thanks, but no thanks.
+
+ Such a writer will be entitled to feel truly proud of herself; because she at least, of all the many writers in this world, will have set aside childish things. She will have become an adult at last.
+
+ References
+
+ This essay is not intended for publication in an academic journal, and so I have not peppered it with footnotes giving the source of every statement or statistic. You may be assured, however, that every 'fact' or figure that appears here has previously appeared in print somewhere, and has at least some likelihood of according with reality.
+
+ The major publications which are referred to in the text are listed here in alphabetical order by author. All are recommended for further reading.
+
+ Allen, Michael. (2005). Grumpy Old Bookman - Essays and Criticism. Wiltshire: Kingsfield Publications.
+
+ Allen, Michael. (2003).The Truth about Writing.Wiltshire: Kingsfield Publications.
+
+ Bellaigue, Eric de. (2004). British Book Publishing as a Business since the 1960s. London: The British Library.
+
+ Bernard, Andr&#381;. (2002). Rotten Rejections. London: Robson Books. (There are various earlier editions in both the US and the UK.)
+
+ Blake, Carole. (1999).From Pitch to Publication. London: Pan.
+
+ Epstein, Jason. (2001). Book Business. London: W.W. Norton & Company.
+
+ Klebanoff, Arthur. (2002). The Agent. London: Texere.
+
+ Taleb, Nassim Nicholas. (2004).Fooled by Randomness. London: Texere.
+
+ Taleb, Nassim Nicholas. (2004). Fooled by Success: the Black Swan and the Arts. A paper presented on 24 September 2004 at the Arte-Scienza symposium, Rome; available on Taleb's web site, www.fooledbyrandomness.com.
+
+ Taleb, Nassim Nicholas. (2004).On the Invisibility of the Drowned Worshippers. A draft chapter of Taleb's forthcoming book on black swans; available on www.fooledbyrandomness.com.
+
+ About the Author
+
+ Michael Allen's principal career was in education, first as a teacher and then as an administrator. Prior to retirement, he held the post of Administrative Secretary of the University of Bath. He has a Ph D in education and is a former Fulbright Fellow.
+
+ In parallel with his career in education, Michael has had a long record of achievement as a writer. He was first paid for writing a newspaper article in 1955, and since then he has published 11 novels, a collection of short stories, and three non-fiction books; he has also had work produced on the stage, television and radio.
+
+ Michael is a former Director of an academic publishing company, Bath University Press, and he currently runs his own small press, Kingsfield Publications. He writes a more or less daily blog, the Grumpy Old Bookman; see below for a direct link. A variety of posts from this blog are now available in printed form; see previous page.
+
+ For more information try the following web sites:
+
+ www.kingsfieldpublications.co.uk
+
+ www.michaelallen.me.uk
+
+ www.truthaboutwriting.co.uk
+
+ www.grumpyoldbookman.blogspot.com
+
+ 
+
+ 
+
+ A free ebook from http://manybooks.net/
