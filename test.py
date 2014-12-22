@@ -49,3 +49,4 @@ if __name__ == "__main__":
     #ts.test4()
     #ts.multiprint(2)
 
+    ts.testconts()

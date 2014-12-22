@@ -13,6 +13,8 @@ from latinpigsay import latinpig as lp
 from latinpigsay import piggyprint as pp
 from tmp.experiments import exp
 
+from data.contractionstuple import CONTS
+
 import piglatin as pl
 
 import requests
@@ -36,6 +38,11 @@ files = {1 : {'file1' : 'data/text/phrases_english.txt',
               'file2' : 'data/text/contractions-un.txt'
              },
         }
+
+def testconts():
+    for word in CONTS:
+        print gfunc.iscont(word[0])
+
 
 def warandpeace():
     t1 = arrow.now()
