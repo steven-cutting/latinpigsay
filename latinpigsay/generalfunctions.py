@@ -8,6 +8,7 @@ __created_on__ = '12/7/2014'
 
 import requests
 import re
+from data.contractionstuple import CONTS
 
 import logging
 _LOG = logging.getLogger(__name__)
@@ -15,7 +16,7 @@ _LOG = logging.getLogger(__name__)
 # Used in:
 # piggyprint.py
 def findlongeststing(listofstrings, minimum=0):
-    length = max([len(string) for string in listofstrings])
+    length = max([len(string.replace('\t', ' '*4)) for string in listofstrings])
     if length <= minimum:
         return minimum
     else:
@@ -26,10 +27,10 @@ def findlongeststing(listofstrings, minimum=0):
 # piggyprint.py
 def stringframer(line, spacers='', start='<', end='>', afterstart=' ',
                  beforeend=' '):
-    return "{a}{b}{c}{d}{e}{f}".format(a=start,
+    return "{a}{b}{c}{e}{f}".format(a=start,
                                        b=afterstart,
                                        c=line,
-                                       d=spacers,
+                                       #d=spacers,
                                        e=beforeend,
                                        f=end,
                                        )
@@ -93,6 +94,36 @@ class onlinetext(object):
         return generatedname + extension
 
 
+def iscont(word):
+    # Replacing regexreplacer.
+    for cont in CONTS:
+        if cont[0] == word.lower():  # Do Not use 'is'.
+            return cont[1]
+    return word
+
+def fileline_gen(file_):
+    with open(file_) as f:
+        for line in f.read().splitlines():
+            yield line
+
+def fileline(file_):
+    with open(file_) as f:
+        return f.read().splitlines()
+
+def fileword_gen(file_):
+    with open(file_) as f:
+        for word in re.findall(r'(?:\S+)|(?:\s+)', f.read()):
+            yield word
+
+def urlword_gen(url):
+    f = requests.get(url, stream=True)
+    for line in f.iter_lines(delimiter='\n'):
+        #yield json.loads(line)
+        yield line
+
+
+# ------------------------------------------------------------------------------
+# Depreciate
 class regexpreplacer(object):
     # From the book:
     # Title: Python Text Processing with NLTK 2.0 Cookbook (2010)

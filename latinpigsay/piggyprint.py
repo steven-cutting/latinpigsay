@@ -13,6 +13,20 @@ import generalfunctions as gfunc
 import logging
 _LOG = logging.getLogger(__name__)
 
+
+import time
+
+class Timer:
+    def __init__(self):
+        self.interval = 0
+    def __enter__(self):
+        self.start = time.clock()
+        return self
+
+    def __exit__(self, *args):
+        self.end = time.clock()
+        self.interval = self.end - self.start
+
 class piggyprint(object):
     """Prints an ASCII pig with a speech bubble above it.
     The speech bubble contains the string provided when creating an instance of
@@ -27,7 +41,7 @@ class piggyprint(object):
         self.__minlinelen = gfunc.findlongeststing(self.character.splitlines())
 
         # List made up of lines from the supplied string.
-        self.__listofstrings = string.splitlines()
+        self.__listofstrings = string.replace('\t', ' '*4).splitlines()
         # Metadata about the above list used to make the Speech Bubble.
         self.__longeststring = gfunc.findlongeststing(self.__listofstrings,
                                                       self.__minlinelen)
@@ -42,24 +56,26 @@ class piggyprint(object):
 
     def __bubblebodyiter(self):
         for n, string_n in enumerate(self.__listofstrings):
-            length = 0
+            stringn = string_n.replace('\t', ' '*4)
+
+            length = len(stringn)
             gap = 0
-            if not string_n:
+            if length is 0:
                 gap = self.__longeststring
                 spacers = " " * gap
+                newstring = spacers
             else:
-                length = len(string_n)
                 gap = self.__longeststring - length
                 spacers = " " * gap
-
+                newstring = "{}{}".format(stringn, spacers)
             if self.__lenoflist is 1:
-                yield gfunc.stringframer(string_n)
+                yield gfunc.stringframer(newstring)
             elif not n:
-                yield gfunc.stringframer(string_n, spacers, '/', '\\')
+                yield gfunc.stringframer(newstring, spacers, '/', '\\')
             elif n is self.__lenoflist - 1:
-                yield gfunc.stringframer(string_n, spacers, '\\', '/')
+                yield gfunc.stringframer(newstring, spacers, '\\', '/')
             else:
-                yield gfunc.stringframer(string_n, spacers, '|', '|')
+                yield gfunc.stringframer(newstring, spacers, '|', '|')
 
     @property
     def __printbubble(self):
@@ -73,4 +89,3 @@ class piggyprint(object):
     def printall(self):
         self.__printbubble
         print self.character
-

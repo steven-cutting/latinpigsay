@@ -46,11 +46,17 @@ class translator(object):
             if not set(ascii_letters).intersection(word):
                 self.__output.append(word)
                 continue
-            word2 = rmcon.replace(word)
+            # -------------------------------------
+            # Contraction Stuff
+            # word2 = rmcon.replace(word)
+            word2 = gfunc.iscont(word)
             if word2 is not word:
                 if word[0].isupper():
                     word2 = word2.capitalize()
                 self.__parsewords(re.findall(r'(?:\S+)|(?:\s+)', word2))
+
+            # -------------------------------------
+            # Translate
             else:
                 # compiled versions of most recent patterns are cached
                 # So no need to precompile
@@ -81,6 +87,36 @@ class translator(object):
                     new_word = new_word.capitalize()
 
                 self.__output.append(new_word)
+
+
+
+def trans(word):
+    # compiled versions of most recent patterns are cached
+    # So no need to precompile
+    m = re.match(r'^(?P<pre>[\W]*)(?P<word>.+?)(?P<post>[\W]*)$', word)
+    d = m.groupdict()
+
+    i = 0
+    word = d['word']
+    length = len(word)
+    while length > i:
+        if word[i] in vowels:
+            break
+        if i > 0 and word[i] in 'yY':
+            break
+        i += 1
+
+    d['fore'] = word[i:]
+    d['aft'] = word[:i]
+
+    if word[0] in vowels:
+        new_word = '%(pre)s%(fore)s%(aft)sway%(post)s' % d
+    else:
+        new_word = '%(pre)s%(fore)s%(aft)say%(post)s' % d
+    new_word = new_word.lower()
+
+
+
 
 """
 ## The Rules Of PigLatin
