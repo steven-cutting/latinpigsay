@@ -14,19 +14,6 @@ import logging
 _LOG = logging.getLogger(__name__)
 
 
-import time
-
-class Timer:
-    def __init__(self):
-        self.interval = 0
-    def __enter__(self):
-        self.start = time.clock()
-        return self
-
-    def __exit__(self, *args):
-        self.end = time.clock()
-        self.interval = self.end - self.start
-
 class piggyprint(object):
     """Prints an ASCII pig with a speech bubble above it.
     The speech bubble contains the string provided when creating an instance of
