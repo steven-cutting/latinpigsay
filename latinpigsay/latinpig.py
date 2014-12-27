@@ -16,6 +16,7 @@ from string import ascii_letters
 import logging
 _LOG = logging.getLogger(__name__)
 
+
 class translator(object):
 
     def __init__(self, text):

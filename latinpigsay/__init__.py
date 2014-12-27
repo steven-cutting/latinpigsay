@@ -11,3 +11,5 @@ logging.getLogger(__name__).addHandler(logging.NullHandler())
 
 
 from latinpig import translator
+from piggyprint import piggyprint
+from transandpig import latinpigsay
