@@ -7,7 +7,7 @@ __created_on__ = '12/7/2014'
 
 if __name__ == "__main__":
     from tests import testscript as ts
-    from tmp.experiments import exp
+    from latinpigsay.tmp.experiments import exp
     from data.text import samples as sam
 
     from latinpigsay import latinpig as lp

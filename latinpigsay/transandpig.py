@@ -10,7 +10,7 @@ import piglatin as pl
 
 from latinpigsay import latinpig as lp
 from latinpigsay import piggyprint as pp
-from tmp.experiments import exp
+from latinpigsay.tmp.experiments import exp
 
 
 def latinpigsay(text, exp='no'):
