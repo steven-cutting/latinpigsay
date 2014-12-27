@@ -29,10 +29,10 @@ if __name__ == "__main__":
     print sysinput
 
     # translated = lp.translator(sysinput).returnstr
-    translated = exp.translator(sysinput).returnstr
-    pp.piggyprint(translated).printall
+    translated = exp.Translator(sysinput).returnstr
+    pp.Piggyprint(translated).printall
 
-    translated = lp.translator(sysinput).returnstr
-    pp.piggyprint(translated).printall
+    translated = lp.Translator(sysinput).returnstr
+    pp.Piggyprint(translated).printall
 
     print re.findall(r'(?:\S+)|(?:\s+)', sysinput)

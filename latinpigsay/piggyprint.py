@@ -14,7 +14,7 @@ import logging
 _LOG = logging.getLogger(__name__)
 
 
-class piggyprint(object):
+class Piggyprint(object):
     """Prints an ASCII pig with a speech bubble above it.
     The speech bubble contains the string provided when creating an instance of
     this class.

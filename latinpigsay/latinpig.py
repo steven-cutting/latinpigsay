@@ -17,7 +17,7 @@ import logging
 _LOG = logging.getLogger(__name__)
 
 
-class translator(object):
+class Translator(object):
 
     def __init__(self, text):
         # Separates text into words and whitespace

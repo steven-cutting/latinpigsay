@@ -10,6 +10,6 @@ import logging
 logging.getLogger(__name__).addHandler(logging.NullHandler())
 
 
-from latinpig import translator
-from piggyprint import piggyprint
+from latinpig import Translator
+from piggyprint import Piggyprint
 from transandpig import latinpigsay

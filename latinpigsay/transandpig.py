@@ -15,12 +15,12 @@ from tmp.experiments import exp
 
 def latinpigsay(text, exp='no'):
     if exp in ('no', 'n'):
-        translated = lp.translator(text).returnstr
+        translated = lp.Translator(text).returnstr
     elif exp in ('yes', 'y'):
-        translated = exp.translator(text).returnstr
+        translated = exp.Translator(text).returnstr
     else:
         sys.exit
-    pp.piggyprint(translated).printall
+    pp.Piggyprint(translated).printall
 
 
 
