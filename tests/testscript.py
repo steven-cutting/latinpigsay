@@ -7,11 +7,11 @@ __created_on__ = '12/7/2014'
 
 from data.text import samples as sam
 from latinpigsay import generalfunctions as gfunc
-from tmp.experiments import expfunctions as expfunc
+from latinpigsay.tmp.experiments import expfunctions as expfunc
 
 from latinpigsay import latinpig as lp
 from latinpigsay import piggyprint as pp
-from tmp.experiments import exp
+from latinpigsay.tmp.experiments import exp
 
 from data.contractionstuple import CONTS
 
