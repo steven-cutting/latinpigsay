@@ -7,10 +7,25 @@ __created_on__ = '12/7/2014'
 
 
 import re
+import arrow
+
 from data.contractionstuple import CONTS
 
 import logging
 _LOG = logging.getLogger(__name__)
+
+
+class Timer:
+    def __init__(self):
+        self.interval = 0
+    def __enter__(self):
+        self.start = arrow.now()
+        return self
+
+    def __exit__(self, *args):
+        self.end = arrow.now()
+        self.interval = self.end - self.start
+
 
 # Used in:
 # piggyprint.py
