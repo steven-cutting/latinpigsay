@@ -15,9 +15,8 @@ from tmp.experiments import exp
 
 from data.contractionstuple import CONTS
 
-import piglatin as pl
+# import piglatin as pl
 
-import requests
 from itertools import izip
 
 import arrow

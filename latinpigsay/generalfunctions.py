@@ -6,7 +6,6 @@ __author_email__ = 'steven.c.projects@gmail.com'
 __created_on__ = '12/7/2014'
 
 
-import requests
 import re
 from data.contractionstuple import CONTS
 
@@ -35,7 +34,7 @@ def stringframer(line, spacers='', start='<', end='>', afterstart=' ',
                                        f=end,
                                        )
 
-
+""" Not really used yet. May remove.
 class onlinetext(object):
 
     def __init__(self, url, name=''):
@@ -74,7 +73,7 @@ class onlinetext(object):
                 f.write(itemtowrite)
 
     def __newfilename(self, filename, extension='.txt', maxrecursivedepth=10):
-        """maxrecursivedepth is used to limit the number of tries."""
+        '''maxrecursivedepth is used to limit the number of tries.'''
         count = 0
 
         def namegenloop(name, counter, maxrecursivedepth):
@@ -92,7 +91,7 @@ class onlinetext(object):
 
         generatedname = namegenloop(filename, count)
         return generatedname + extension
-
+"""
 
 def iscont(word):
     # Replacing regexreplacer.
@@ -102,16 +101,16 @@ def iscont(word):
     return word
 
 def fileline_gen(file_):
-    with open(file_) as f:
+    with open(file_, 'rU') as f:
         for line in f.read().splitlines():
             yield line
 
 def fileline(file_):
-    with open(file_) as f:
+    with open(file_, 'rU') as f:
         return f.read().splitlines()
 
 def fileword_gen(file_):
-    with open(file_) as f:
+    with open(file_, 'rU') as f:
         for word in re.findall(r'(?:\S+)|(?:\s+)', f.read()):
             yield word
 
